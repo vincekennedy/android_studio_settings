@@ -160,10 +160,10 @@
         <mark key="[" line="27" column="0" />
       </file>
       <file name="$USER_HOME$/dt/republic-mobile-android/app/src/main/java/com/rjet/crewlife/java/common/models/InFlightServiceViewModel.java" timestamp="1445958686130">
-        <mark key="'" line="80" column="18" />
-        <mark key="]" line="65" column="0" />
-        <mark key="." line="65" column="0" />
-        <mark key="[" line="65" column="0" />
+        <mark key="'" line="74" column="18" />
+        <mark key="]" line="59" column="0" />
+        <mark key="." line="59" column="0" />
+        <mark key="[" line="59" column="0" />
       </file>
       <file name="$USER_HOME$/dt/republic-mobile-android/app/src/test/java/com/rjet/crewlife/java/modules/flight_details/viewmodel/FlightDetailsViewModelBuilderTest.java" timestamp="1443708280962">
         <mark key="]" line="21" column="0" />
@@ -189,11 +189,12 @@
         <mark key="." line="66" column="67" />
         <mark key="[" line="66" column="67" />
       </file>
-      <file name="$USER_HOME$/dt/republic-mobile-android/app/src/main/java/com/rjet/crewlife/android/ui/flight_details/FlightDetailsFragment.java" timestamp="1445960419151">
-        <mark key="]" line="197" column="0" />
-        <mark key="^" line="195" column="37" />
-        <mark key="." line="197" column="0" />
-        <mark key="[" line="197" column="0" />
+      <file name="$USER_HOME$/dt/republic-mobile-android/app/src/main/java/com/rjet/crewlife/android/ui/flight_details/FlightDetailsFragment.java" timestamp="1445962425527">
+        <mark key="'" line="226" column="8" />
+        <mark key="]" line="194" column="0" />
+        <mark key="^" line="192" column="37" />
+        <mark key="." line="194" column="0" />
+        <mark key="[" line="194" column="0" />
       </file>
       <file name="$USER_HOME$/dt/republic-mobile-android/app/src/main/java/com/rjet/crewlife/java/common/models/DirectorySection.java" timestamp="1445392163967">
         <mark key="]" line="13" column="0" />
@@ -208,10 +209,10 @@
         <mark key="[" line="22" column="47" />
       </file>
       <file name="$USER_HOME$/dt/republic-mobile-android/app/src/main/java/com/rjet/crewlife/android/widget/CrewLifeInfoTable.java" timestamp="1445958550508">
-        <mark key="]" line="29" column="0" />
-        <mark key="^" line="28" column="11" />
-        <mark key="." line="29" column="0" />
-        <mark key="[" line="29" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="^" line="27" column="11" />
+        <mark key="." line="28" column="0" />
+        <mark key="[" line="28" column="0" />
       </file>
       <file name="$USER_HOME$/dt/republic-mobile-android/app/src/test/java/com/rjet/crewlife/java/modules/directory/entries/DirectoryEntriesPresenterTest.java" timestamp="1445378944855">
         <mark key="'" line="57" column="0" />
@@ -322,7 +323,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="257" column="0" filename="$USER_HOME$/dt/republic-mobile-android/app/src/main/java/com/rjet/crewlife/android/dagger/CommonModule.java" />
       <jump line="24" column="0" filename="$USER_HOME$/dt/republic-mobile-android/app/src/main/java/com/rjet/crewlife/android/dagger/DirectoryDaggerModule.java" />
       <jump line="30" column="0" filename="$USER_HOME$/dt/republic-mobile-android/app/src/main/java/com/rjet/crewlife/android/dagger/DirectoryDaggerModule.java" />
       <jump line="27" column="84" filename="$USER_HOME$/dt/republic-mobile-android/app/src/main/java/com/rjet/crewlife/android/dagger/DirectoryDaggerModule.java" />
@@ -422,6 +422,7 @@
       <jump line="25" column="21" filename="$USER_HOME$/dt/republic-mobile-android/app/src/main/java/com/rjet/crewlife/java/common/models/FlightViewModel.java" />
       <jump line="71" column="0" filename="$USER_HOME$/dt/republic-mobile-android/app/src/main/java/com/rjet/crewlife/java/common/models/FlightViewModel.java" />
       <jump line="5" column="18" filename="$USER_HOME$/dt/republic-mobile-android/app/src/main/java/com/rjet/crewlife/java/common/models/FlightViewModel.java" />
+      <jump line="226" column="8" filename="$USER_HOME$/dt/republic-mobile-android/app/src/main/java/com/rjet/crewlife/android/ui/flight_details/FlightDetailsFragment.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
