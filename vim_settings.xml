@@ -49,8 +49,11 @@
         <mark key="." line="64" column="49" />
         <mark key="[" line="64" column="48" />
       </file>
-      <file name="$USER_HOME$/dt/republic-mobile-android/app/src/main/java/com/rjet/crewlife/android/ui/directory/entries/DirectoryEntriesFragment.java" timestamp="1445964017566">
-        <mark key="[" line="97" column="46" />
+      <file name="$USER_HOME$/dt/republic-mobile-android/app/src/main/java/com/rjet/crewlife/android/ui/directory/entries/DirectoryEntriesFragment.java" timestamp="1445965061711">
+        <mark key="]" line="98" column="15" />
+        <mark key="^" line="98" column="15" />
+        <mark key="." line="98" column="15" />
+        <mark key="[" line="98" column="15" />
       </file>
       <file name="$USER_HOME$/dt/republic-mobile-android/app/src/main/res/layout/item_directory_entry.xml" timestamp="1445001379726">
         <mark key="'" line="21" column="26" />
@@ -423,8 +426,8 @@
       <jump line="226" column="8" filename="$USER_HOME$/dt/republic-mobile-android/app/src/main/java/com/rjet/crewlife/android/ui/flight_details/FlightDetailsFragment.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYoc2VjdGlvbi5nZXRBaXJsaW5lQ29kZSgpKQo=</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="d" type="4">
         <text>.DarkActionBar</text>
@@ -433,7 +436,7 @@
         <text>Timber</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>)</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -3200,41 +3203,41 @@
           <key char="101" code="0" mods="0" />
         </keys>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYoc2VjdGlvbi5nZXRBaXJsaW5lQ29kZSgpKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVGltYmVyLmUoIlRpcyBlbXB0eSIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgVGltYmVyLmUoIlNlY3Rpb24gOiAlcyIsIHNlY3Rpb24pOwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYoc2VjdGlvbi5nZXRBaXJsaW5lQ29kZSgpKQo=</text>
+      <register name="1" type="4">
+        <text>)</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzdHlsZT0iQHN0eWxlL1BsYW5lRGV0YWlsUm93TGVmdCIKICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOnRleHQ9IkBzdHJpbmcvZmxpZ2h0X3NlcnZpY2VfaW5mb3JtYXRpb24iCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBUaW1iZXIuZSgiRmxpZ2h0IFNlcnZpY2VzIDogJXMiLCBmbGlnaHQuc2VydmljZXMpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgVGltYmVyLmUoIkNvYWNoIGNsYXNzIDogJXMiLCB2YWwpOwo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text>|| true</text>
       </register>
       <register name="q" type="4">
         <text>jp</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVGltYmVyLmUoIkNvYWNoIGNsYXNzIDogJXMiLCB2YWwpOwo=</text>
+      <register name="5" type="4">
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="4" type="4">
-        <text>|| true</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgVGltYmVyLmUoIlRpcyBlbXB0eSIpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/final//g</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVGltYmVyLmUoIkl0J3MgZW1wdHkgOiAlcyIsIGluZm8pOwo=</text>
+        <text encoding="base64">ICAgICAgICBUaW1iZXIuZSgiRmxpZ2h0IFNlcnZpY2VzIDogJXMiLCBmbGlnaHQuc2VydmljZXMpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB9ZWxzZSB7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
