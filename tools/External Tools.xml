@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<toolSet name="External Tools">
+  <tool name="Test1" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/dt/republic-mobile" />
+    </exec>
+    <filter>
+      <option name="NAME" value="Filter 1" />
+      <option name="DESCRIPTION" />
+      <option name="REGEXP" value=".*$FILE_PATH$*" />
+    </filter>
+  </tool>
+</toolSet>
+

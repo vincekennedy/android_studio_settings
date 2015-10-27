@@ -1,0 +1,58 @@
+<keymap version="1" name="Mac OS X copy" parent="Mac OS X">
+  <action id="ActivateAndroidToolWindow">
+    <keyboard-shortcut first-keystroke="meta 9" />
+  </action>
+  <action id="ActivateChangesToolWindow" />
+  <action id="ActivateGradleToolWindow">
+    <keyboard-shortcut first-keystroke="meta 8" />
+  </action>
+  <action id="ActivateHierarchyToolWindow" />
+  <action id="CloseAllEditorsButActive">
+    <keyboard-shortcut first-keystroke="shift meta W" />
+  </action>
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="meta W" />
+  </action>
+  <action id="EditorCodeBlockEndWithSelection" />
+  <action id="EditorCodeBlockStartWithSelection" />
+  <action id="EditorSelectWord" />
+  <action id="EditorUnSelectWord" />
+  <action id="GotoFile">
+    <keyboard-shortcut first-keystroke="shift meta O" />
+  </action>
+  <action id="Images.Thumbnails.EnterAction" />
+  <action id="NextTab">
+    <keyboard-shortcut first-keystroke="shift meta CLOSE_BRACKET" />
+  </action>
+  <action id="NextTemplateVariable">
+    <keyboard-shortcut first-keystroke="TAB" />
+  </action>
+  <action id="PreviousTab">
+    <keyboard-shortcut first-keystroke="shift meta OPEN_BRACKET" />
+  </action>
+  <action id="Run">
+    <keyboard-shortcut first-keystroke="shift F10" />
+    <keyboard-shortcut first-keystroke="control R" />
+  </action>
+  <action id="SwitchApply">
+    <keyboard-shortcut first-keystroke="control alt ENTER" />
+  </action>
+  <action id="SwitchDown">
+    <keyboard-shortcut first-keystroke="control alt DOWN" />
+  </action>
+  <action id="SwitchLeft">
+    <keyboard-shortcut first-keystroke="control alt LEFT" />
+  </action>
+  <action id="SwitchRight">
+    <keyboard-shortcut first-keystroke="control alt RIGHT" />
+  </action>
+  <action id="SwitchUp">
+    <keyboard-shortcut first-keystroke="control alt UP" />
+  </action>
+  <action id="VimWindowClose">
+    <keyboard-shortcut first-keystroke="meta W" />
+  </action>
+  <action id="VimWindowOnly">
+    <keyboard-shortcut first-keystroke="shift meta W" />
+  </action>
+</keymap>

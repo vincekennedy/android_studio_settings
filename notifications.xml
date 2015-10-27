@@ -1,0 +1,12 @@
+<application>
+  <component name="NotificationConfiguration">
+    <notification groupId="Execution" displayType="NONE" shouldLog="false" />
+    <notification groupId="Genymotion" displayType="NONE" shouldLog="false" />
+    <notification groupId="Gradle Build (Balloon)" shouldLog="false" />
+    <notification groupId="Gradle Build (Logging)" displayType="NONE" shouldLog="false" />
+    <notification groupId="IDE Usage Statistics" displayType="STICKY_BALLOON" shouldLog="false" />
+    <notification groupId="ideavim-sticky" displayType="STICKY_BALLOON" />
+    <notification groupId="Maven Import" displayType="STICKY_BALLOON" />
+    <notification groupId="Unindexed maven repositories gradle detection" displayType="NONE" shouldLog="false" />
+  </component>
+</application>
