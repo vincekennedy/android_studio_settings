@@ -781,12 +781,12 @@
         <mark key="." line="48" column="39" />
         <mark key="[" line="48" column="36" />
       </file>
-      <file name="$USER_HOME$/Development/Android/LinktopTesting/app/src/main/java/com/vocare/linktoptesting/MainActivity.java" timestamp="1446073980335">
-        <mark key="'" line="22" column="0" />
-        <mark key="]" line="23" column="44" />
-        <mark key="^" line="23" column="44" />
-        <mark key="." line="23" column="44" />
-        <mark key="[" line="23" column="21" />
+      <file name="$USER_HOME$/Development/Android/LinktopTesting/app/src/main/java/com/vocare/linktoptesting/MainActivity.java" timestamp="1446075100830">
+        <mark key="'" line="19" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="^" line="43" column="46" />
+        <mark key="." line="15" column="0" />
+        <mark key="[" line="15" column="0" />
       </file>
       <file name="$USER_HOME$/pb_as/Pixelbeam/app/src/main/java/com/pixelbeam/manager/BeamItemManager.java" timestamp="1408756485291">
         <mark key="'" line="29" column="0" />
@@ -855,6 +855,11 @@
         <mark key="^" line="5" column="24" />
         <mark key="." line="7" column="0" />
         <mark key="[" line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/VoCare/VoCare2/app/src/main/res/layout/activity_main.xml" timestamp="1446075348170">
+        <mark key="]" line="155" column="26" />
+        <mark key="." line="155" column="26" />
+        <mark key="[" line="155" column="26" />
       </file>
       <file name="$USER_HOME$/programming/meetup_rss_reader/app/src/main/java/com/example/myrssreader/app/FeedActivity.java" timestamp="1405144042663">
         <mark key="]" line="37" column="92" />
@@ -1334,46 +1339,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">L1dpZGdldC5XZWJUZXh0VmlldyIg</text>
+        <text>蓝牙断开</text>
       </register>
       <register name="/" type="4">
         <text>retro</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">L1dpZGdldC5XZWJUZXh0VmlldyIg</text>
+        <text>蓝牙断开</text>
       </register>
       <register name="3" type="4">
-        <text>startServicetoBleconnect</text>
+        <text>扫描蓝牙并连接</text>
       </register>
-      <register name="2" type="4">
-        <text>parent=&quot;@android:style</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDp0ZXh0PSLok53niZnmlq3lvIAiIC8+Cg==</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">L1dpZGdldC5XZWJUZXh0VmlldyIg</text>
+        <text>蓝牙断开</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBjb25uZWN0RGV2aWNlID0gKEJ1dHRvbikgZmluZFZpZXdCeUlkKFIuaWQuYnRuX2Nvbm5lY3RfZGV2aWNlKTsK</text>
       </register>
       <register name="7" type="4">
-        <text>Connect Device</text>
+        <text>startBleScantoconnect();</text>
       </register>
-      <register name="6" type="4">
-        <text>connect_device</text>
+      <register name="6" type="2">
+        <text encoding="base64">CiAgICAgICAgaW5zdGFuY2Uuc3RhcnRTZXJ2aWNldG9CbGVjb25uZWN0KCk7Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>connectDevice</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIEhhbmRsZXIgcmVzdWx0SGFuZGxlciA9IG5ldyBEZXZpY2VIYW5kbGVyKCk7CgoK</text>
       </register>
       <register name="4" type="4">
-        <text>btn_connect_device</text>
+        <text>启动服务连接蓝牙</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="4">
-        <text>tartBleScantoconnect</text>
+        <text>parent=&quot;@android:style</text>
       </register>
       <register name="8" type="4">
-        <text>Connect</text>
+        <text encoding="base64">L1dpZGdldC5XZWJUZXh0VmlldyIg</text>
       </register>
     </registers>
     <search>
