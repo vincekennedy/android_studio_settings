@@ -14,6 +14,7 @@
         <mark key="." line="6" column="0" />
         <mark key="[" line="5" column="0" />
       </file>
+      <file name="$USER_HOME$/Development/sdk/sources/android-22/java/lang/Comparable.java" timestamp="1446040237066" />
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch" timestamp="1443713816354">
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -26,16 +27,29 @@
         <mark key="." line="29" column="30" />
         <mark key="[" line="29" column="30" />
       </file>
-      <file name="$USER_HOME$/dt/republic-mobile-android/app/src/main/java/com/rjet/crewlife/java/common/models/DirectoryEntry.java" timestamp="1445277506246">
-        <mark key="]" line="25" column="11" />
-        <mark key="." line="25" column="0" />
-        <mark key="[" line="25" column="0" />
+      <file name="$USER_HOME$/dt/republic-mobile-android/app/src/main/java/com/rjet/crewlife/java/common/models/DirectoryEntry.java" timestamp="1445970616843">
+        <mark key="]" line="51" column="7" />
+        <mark key="^" line="51" column="7" />
+        <mark key="." line="51" column="7" />
+        <mark key="[" line="49" column="0" />
       </file>
       <file name="$USER_HOME$/dt/republic-mobile-android/app/src/main/java/com/rjet/crewlife/java/modules/directory/DirectoryInteractor.java" timestamp="1445377614898">
         <mark key="'" line="41" column="0" />
         <mark key="]" line="31" column="0" />
         <mark key="." line="31" column="0" />
         <mark key="[" line="31" column="0" />
+      </file>
+      <file name="$USER_HOME$/dt/republic-mobile-android/app/src/main/java/com/rjet/crewlife/java/common/models/DirectoryEntryViewModel.java" timestamp="1446039982065">
+        <mark key="'" line="29" column="26" />
+        <mark key="]" line="36" column="0" />
+        <mark key="." line="36" column="0" />
+        <mark key="[" line="36" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/Testing/app/src/main/java/com/test/testing/MainActivity.java" timestamp="1446054873848">
+        <mark key="'" line="17" column="62" />
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="41" column="0" />
+        <mark key="[" line="41" column="0" />
       </file>
       <file name="$USER_HOME$/dt/republic-mobile-android/app/src/main/java/com/rjet/crewlife/java/common/db/dao/ScheduleDAO.java" timestamp="1445346291550">
         <mark key="]" line="126" column="23" />
@@ -48,6 +62,11 @@
         <mark key="^" line="64" column="49" />
         <mark key="." line="64" column="49" />
         <mark key="[" line="64" column="48" />
+      </file>
+      <file name="$USER_HOME$/dt/republic-mobile-android/app/src/main/java/com/rjet/crewlife/android/ui/directory/entries/DirectoryEntriesFragment.java" timestamp="1445970775154">
+        <mark key="]" line="99" column="0" />
+        <mark key="." line="99" column="0" />
+        <mark key="[" line="99" column="0" />
       </file>
       <file name="$USER_HOME$/dt/republic-mobile-android/app/src/main/res/layout/item_directory_entry.xml" timestamp="1445001379726">
         <mark key="'" line="21" column="26" />
@@ -82,6 +101,11 @@
         <mark key="." line="32" column="48" />
         <mark key="[" line="32" column="48" />
       </file>
+      <file name="$USER_HOME$/dt/republic-mobile-android/app/src/main/java/com/rjet/crewlife/android/ui/directory/DirectoryEntryAdapter.java" timestamp="1445970570155">
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
+        <mark key="[" line="30" column="0" />
+      </file>
       <file name="$USER_HOME$/dt/republic-mobile-android/app/src/test/java/com/rjet/crewlife/java/common/db/transformer/ScheduleRecordTransformerTest.java" timestamp="1442791531826">
         <mark key="]" line="69" column="0" />
         <mark key="." line="69" column="0" />
@@ -109,8 +133,10 @@
         <mark key="." line="35" column="0" />
         <mark key="[" line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/dt/republic-mobile-android/app/src/main/java/com/rjet/crewlife/android/ui/MainActivity.java" timestamp="1445456080600">
-        <mark key="'" line="33" column="13" />
+      <file name="$USER_HOME$/dt/republic-mobile-android/app/src/main/java/com/rjet/crewlife/android/ui/MainActivity.java" timestamp="1446054747390">
+        <mark key="]" line="59" column="1" />
+        <mark key="." line="59" column="1" />
+        <mark key="[" line="59" column="0" />
       </file>
       <file name="$USER_HOME$/dt/republic-mobile-android/app/src/main/java/com/rjet/crewlife/java/modules/directory/DirectoryEntryView.java" timestamp="1445395290661">
         <mark key="]" line="11" column="63" />
@@ -121,9 +147,6 @@
         <mark key="]" line="64" column="0" />
         <mark key="." line="64" column="0" />
         <mark key="[" line="64" column="0" />
-      </file>
-      <file name="/a.regexp" timestamp="1445890724991">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dt/republic-mobile-android/app/src/main/java/com/rjet/crewlife/android/ui/ContentViewHolder.java" timestamp="1444266934074">
         <mark key="]" line="58" column="0" />
@@ -159,17 +182,12 @@
         <mark key="." line="27" column="0" />
         <mark key="[" line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/dt/republic-mobile-android/app/src/main/java/com/rjet/crewlife/java/common/models/InFlightServiceViewModel.java" timestamp="1445958686130">
-        <mark key="'" line="80" column="18" />
-        <mark key="]" line="65" column="0" />
-        <mark key="." line="65" column="0" />
-        <mark key="[" line="65" column="0" />
-      </file>
       <file name="$USER_HOME$/dt/republic-mobile-android/app/src/test/java/com/rjet/crewlife/java/modules/flight_details/viewmodel/FlightDetailsViewModelBuilderTest.java" timestamp="1443708280962">
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
         <mark key="[" line="17" column="36" />
       </file>
+      <file name="$USER_HOME$/Development/MyApplication/app/src/main/java/com/test/myapplication/TodoListActivity.java" timestamp="1446054776458" />
       <file name="$USER_HOME$/dt/republic-mobile-android/app/src/main/java/com/rjet/crewlife/java/common/db/record/DirectoryEntryRecord.java" timestamp="1445375447041">
         <mark key="'" line="40" column="30" />
         <mark key="]" line="112" column="59" />
@@ -189,15 +207,7 @@
         <mark key="." line="66" column="67" />
         <mark key="[" line="66" column="67" />
       </file>
-      <file name="$USER_HOME$/dt/republic-mobile-android/app/src/main/java/com/rjet/crewlife/android/ui/flight_details/FlightDetailsFragment.java" timestamp="1445960419151">
-        <mark key="]" line="197" column="0" />
-        <mark key="^" line="195" column="37" />
-        <mark key="." line="197" column="0" />
-        <mark key="[" line="197" column="0" />
-      </file>
-      <file name="$USER_HOME$/dt/republic-mobile-android/app/src/main/java/com/rjet/crewlife/java/common/models/DirectorySection.java" timestamp="1445392163967">
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
+      <file name="$USER_HOME$/dt/republic-mobile-android/app/src/main/java/com/rjet/crewlife/java/common/models/DirectorySection.java" timestamp="1445963983528">
         <mark key="[" line="13" column="0" />
       </file>
       <file name="$USER_HOME$/dt/republic-mobile-android/app/src/main/java/com/rjet/crewlife/java/common/db/dao/DirectoryDAO.java" timestamp="1445379035653">
@@ -208,10 +218,10 @@
         <mark key="[" line="22" column="47" />
       </file>
       <file name="$USER_HOME$/dt/republic-mobile-android/app/src/main/java/com/rjet/crewlife/android/widget/CrewLifeInfoTable.java" timestamp="1445958550508">
-        <mark key="]" line="29" column="0" />
-        <mark key="^" line="28" column="11" />
-        <mark key="." line="29" column="0" />
-        <mark key="[" line="29" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="^" line="27" column="11" />
+        <mark key="." line="28" column="0" />
+        <mark key="[" line="28" column="0" />
       </file>
       <file name="$USER_HOME$/dt/republic-mobile-android/app/src/test/java/com/rjet/crewlife/java/modules/directory/entries/DirectoryEntriesPresenterTest.java" timestamp="1445378944855">
         <mark key="'" line="57" column="0" />
@@ -250,9 +260,6 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
         <mark key="[" line="3" column="0" />
-      </file>
-      <file name="$USER_HOME$/dt/republic-mobile-android/app/src/main/java/com/rjet/crewlife/android/ui/directory/entries/DirectoryEntriesActivity.java" timestamp="1445876339026">
-        <mark key="^" line="29" column="85" />
       </file>
       <file name="/fragment.java" timestamp="1445453582695">
         <mark key="]" line="0" column="0" />
@@ -322,9 +329,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="257" column="0" filename="$USER_HOME$/dt/republic-mobile-android/app/src/main/java/com/rjet/crewlife/android/dagger/CommonModule.java" />
-      <jump line="24" column="0" filename="$USER_HOME$/dt/republic-mobile-android/app/src/main/java/com/rjet/crewlife/android/dagger/DirectoryDaggerModule.java" />
-      <jump line="30" column="0" filename="$USER_HOME$/dt/republic-mobile-android/app/src/main/java/com/rjet/crewlife/android/dagger/DirectoryDaggerModule.java" />
       <jump line="27" column="84" filename="$USER_HOME$/dt/republic-mobile-android/app/src/main/java/com/rjet/crewlife/android/dagger/DirectoryDaggerModule.java" />
       <jump line="35" column="0" filename="$USER_HOME$/dt/republic-mobile-android/app/src/main/java/com/rjet/crewlife/android/dagger/DirectoryDaggerModule.java" />
       <jump line="41" column="5" filename="$USER_HOME$/dt/republic-mobile-android/app/src/main/java/com/rjet/crewlife/android/ui/directory/entries/DirectoryEntriesFragment.java" />
@@ -422,10 +426,13 @@
       <jump line="25" column="21" filename="$USER_HOME$/dt/republic-mobile-android/app/src/main/java/com/rjet/crewlife/java/common/models/FlightViewModel.java" />
       <jump line="71" column="0" filename="$USER_HOME$/dt/republic-mobile-android/app/src/main/java/com/rjet/crewlife/java/common/models/FlightViewModel.java" />
       <jump line="5" column="18" filename="$USER_HOME$/dt/republic-mobile-android/app/src/main/java/com/rjet/crewlife/java/common/models/FlightViewModel.java" />
+      <jump line="226" column="8" filename="$USER_HOME$/dt/republic-mobile-android/app/src/main/java/com/rjet/crewlife/android/ui/flight_details/FlightDetailsFragment.java" />
+      <jump line="31" column="26" filename="$USER_HOME$/dt/republic-mobile-android/app/src/main/java/com/rjet/crewlife/java/common/models/DirectoryEntryViewModel.java" />
+      <jump line="17" column="62" filename="$USER_HOME$/Development/Testing/app/src/main/java/com/test/testing/MainActivity.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVGltYmVyLmUoIlRpcyBlbXB0eSIpOwo=</text>
+        <text encoding="base64">Ly8gICAgICAgIG5vaW5zcGVjdGlvbiBTaW1wbGlmaWFibGVJZlN0YXRlbWVudAo=</text>
       </register>
       <register name="d" type="4">
         <text>.DarkActionBar</text>
@@ -434,7 +441,7 @@
         <text>Timber</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">IGltcGxlbWVudHMgQ29tcGFyYWJsZTxEaXJlY3RvcnlFbnRyeVZpZXdNb2RlbD4g</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -3201,41 +3208,41 @@
           <key char="101" code="0" mods="0" />
         </keys>
       </register>
-      <register name="3" type="4">
-        <text>|| true</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAvLyBJbmZsYXRlIHRoZSBtZW51OyB0aGlzIGFkZHMgaXRlbXMgdG8gdGhlIGFjdGlvbiBiYXIgaWYgaXQgaXMgcHJlc2VudC4K</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAvLyBIYW5kbGUgYWN0aW9uIGJhciBpdGVtIGNsaWNrcyBoZXJlLiBUaGUgYWN0aW9uIGJhciB3aWxsCiAgICAgICAgLy8gYXV0b21hdGljYWxseSBoYW5kbGUgY2xpY2tzIG9uIHRoZSBIb21lL1VwIGJ1dHRvbiwgc28gbG9uZwogICAgICAgIC8vIGFzIHlvdSBzcGVjaWZ5IGEgcGFyZW50IGFjdGl2aXR5IGluIEFuZHJvaWRNYW5pZmVzdC54bWwuCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVGltYmVyLmUoIlRpcyBlbXB0eSIpOwo=</text>
+        <text encoding="base64">Ly8gICAgICAgIG5vaW5zcGVjdGlvbiBTaW1wbGlmaWFibGVJZlN0YXRlbWVudAo=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzdHlsZT0iQHN0eWxlL1BsYW5lRGV0YWlsUm93TGVmdCIKICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOnRleHQ9IkBzdHJpbmcvZmxpZ2h0X3NlcnZpY2VfaW5mb3JtYXRpb24iCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gcG9zaXRpb24gLSBhbm90aGVyLnBvc2l0aW9uOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9ZWxzZSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnBvc2l0aW9uID0gZW50cnkucG9zaXRpb247Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBUaW1iZXIuZSgiRmxpZ2h0IFNlcnZpY2VzIDogJXMiLCBmbGlnaHQuc2VydmljZXMpOwo=</text>
+      <register name="6" type="4">
+        <text encoding="base64">CiAgICAgICAgaWY=</text>
       </register>
       <register name="q" type="4">
         <text>jp</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyBib29sZWFuIG9uQ3JlYXRlT3B0aW9uc01lbnUoTWVudSBtZW51KSB7CiAgICAgICAgLy8gSW5mbGF0ZSB0aGUgbWVudTsgdGhpcyBhZGRzIGl0ZW1zIHRvIHRoZSBhY3Rpb24gYmFyIGlmIGl0IGlzIHByZXNlbnQuCiAgICAgICAgZ2V0TWVudUluZmxhdGVyKCkuaW5mbGF0ZShSLm1lbnUubWVudV9tYWluLCBtZW51KTsKICAgICAgICByZXR1cm4gdHJ1ZTsKICAgIH0KCiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyBib29sZWFuIG9uT3B0aW9uc0l0ZW1TZWxlY3RlZChNZW51SXRlbSBpdGVtKSB7CiAgICAgICAgLy8gSGFuZGxlIGFjdGlvbiBiYXIgaXRlbSBjbGlja3MgaGVyZS4gVGhlIGFjdGlvbiBiYXIgd2lsbAogICAgICAgIC8vIGF1dG9tYXRpY2FsbHkgaGFuZGxlIGNsaWNrcyBvbiB0aGUgSG9tZS9VcCBidXR0b24sIHNvIGxvbmcKICAgICAgICAvLyBhcyB5b3Ugc3BlY2lmeSBhIHBhcmVudCBhY3Rpdml0eSBpbiBBbmRyb2lkTWFuaWZlc3QueG1sLgogICAgICAgIGludCBpZCA9IGl0ZW0uZ2V0SXRlbUlkKCk7CgogICAgICAgIC8vbm9pbnNwZWN0aW9uIFNpbXBsaWZpYWJsZUlmU3RhdGVtZW50CiAgICAgICAgaWYgKGlkID09IFIuaWQuYWN0aW9uX3NldHRpbmdzKSB7CiAgICAgICAgICAgIHJldHVybiB0cnVlOwogICAgICAgIH0KCiAgICAgICAgcmV0dXJuIHN1cGVyLm9uT3B0aW9uc0l0ZW1TZWxlY3RlZChpdGVtKTsKICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVGltYmVyLmUoIkNvYWNoIGNsYXNzIDogJXMiLCB2YWwpOwo=</text>
+        <text encoding="base64">CiAgICAgICAgRmxvYXRpbmdBY3Rpb25CdXR0b24gZmFiID0gKEZsb2F0aW5nQWN0aW9uQnV0dG9uKSBmaW5kVmlld0J5SWQoUi5pZC5mYWIpOwogICAgICAgIGZhYi5zZXRPbkNsaWNrTGlzdGVuZXIobmV3IFZpZXcuT25DbGlja0xpc3RlbmVyKCkgewogICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgcHVibGljIHZvaWQgb25DbGljayhWaWV3IHZpZXcpIHsKICAgICAgICAgICAgICAgIFNuYWNrYmFyLm1ha2UodmlldywgIlJlcGxhY2Ugd2l0aCB5b3VyIG93biBhY3Rpb24iLCBTbmFja2Jhci5MRU5HVEhfTE9ORykKICAgICAgICAgICAgICAgICAgICAgICAgLnNldEFjdGlvbigiQWN0aW9uIiwgbnVsbCkuc2hvdygpOwogICAgICAgICAgICB9CiAgICAgICAgfSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/final//g</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFkZERpdmlkZXIoKTsK</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnBvc2l0aW9uID0gMDsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVGltYmVyLmUoIkl0J3MgZW1wdHkgOiAlcyIsIGluZm8pOwo=</text>
+        <text encoding="base64">ICAgIGZpbmFsIGludCBwb3NpdGlvbjsK</text>
       </register>
     </registers>
     <search>
