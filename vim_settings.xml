@@ -127,8 +127,10 @@
         <mark key="." line="35" column="0" />
         <mark key="[" line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/dt/republic-mobile-android/app/src/main/java/com/rjet/crewlife/android/ui/MainActivity.java" timestamp="1445456080600">
-        <mark key="'" line="33" column="13" />
+      <file name="$USER_HOME$/dt/republic-mobile-android/app/src/main/java/com/rjet/crewlife/android/ui/MainActivity.java" timestamp="1446043839881">
+        <mark key="]" line="59" column="1" />
+        <mark key="." line="59" column="1" />
+        <mark key="[" line="59" column="0" />
       </file>
       <file name="$USER_HOME$/dt/republic-mobile-android/app/src/main/java/com/rjet/crewlife/java/modules/directory/DirectoryEntryView.java" timestamp="1445395290661">
         <mark key="]" line="11" column="63" />
@@ -425,8 +427,8 @@
       <jump line="31" column="26" filename="$USER_HOME$/dt/republic-mobile-android/app/src/main/java/com/rjet/crewlife/java/common/models/DirectoryEntryViewModel.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnBvc2l0aW9uID0gZW50cnkucG9zaXRpb247Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">CiAgICAgICAgaWY=</text>
       </register>
       <register name="d" type="4">
         <text>.DarkActionBar</text>
@@ -3203,40 +3205,40 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnBvc2l0aW9uID0gMDsK</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">ICAgIGZpbmFsIGludCBwb3NpdGlvbjsK</text>
       </register>
-      <register name="1" type="2">
+      <register name="2" type="2">
         <text encoding="base64">ICAgICAgICB0aGlzLnBvc2l0aW9uID0gZW50cnkucG9zaXRpb247Cg==</text>
+      </register>
+      <register name="1" type="4">
+        <text encoding="base64">CiAgICAgICAgaWY=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICByZXR1cm4gcG9zaXRpb24gLSBhbm90aGVyLnBvc2l0aW9uOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBUaW1iCg==</text>
+        <text encoding="base64">ICAgICAgICBUaW1iZXIuZSgpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBUaW1iZXIuZSgpOwo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBpbnQgZ2V0UG9zaXRpb24K</text>
       </register>
       <register name="q" type="4">
         <text>jp</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBpbnQgZ2V0UG9zaXRpb24K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFRpbWJlci5lKCJFbnRyeSBQb3NpdGlvbiA6ICVkIiwgZW50cnkuZ2V0UG9zaXRpb24oKSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFRpbWJlci5lKCJFbnRyeSBQb3NpdGlvbiA6ICVkIiwgZW50cnkuZ2V0UG9zaXRpb24oKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnBvc2l0aW9uID0gMDsK</text>
       </register>
       <register name=":" type="4">
         <text>%s/final//g</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">IGltcGxlbWVudHMgQ29tcGFyYWJsZTxEaXJlY3RvcnlFbnRyeVZpZXdNb2RlbD4g</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBDb2xsZWN0aW9ucy5zb3J0KGVudHJpZXMpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBDb2xsZWN0aW9ucy5zb3J0KGVudHJpZXMpOwo=</text>
+        <text encoding="base64">ICAgICAgICBUaW1iCg==</text>
       </register>
     </registers>
     <search>
