@@ -35,11 +35,12 @@
         <mark key="." line="36" column="0" />
         <mark key="[" line="36" column="0" />
       </file>
-      <file name="$USER_HOME$/dt/republic-mobile-android/app/src/main/java/com/rjet/crewlife/android/ui/settings/SettingsFragment.java" timestamp="1446063000822">
-        <mark key="'" line="64" column="26" />
-        <mark key="]" line="53" column="0" />
-        <mark key="." line="53" column="0" />
-        <mark key="[" line="53" column="0" />
+      <file name="$USER_HOME$/dt/republic-mobile-android/app/src/main/java/com/rjet/crewlife/android/ui/settings/SettingsFragment.java" timestamp="1446121679740">
+        <mark key="'" line="63" column="26" />
+        <mark key="]" line="62" column="52" />
+        <mark key="^" line="62" column="52" />
+        <mark key="." line="62" column="52" />
+        <mark key="[" line="62" column="52" />
       </file>
       <file name="$USER_HOME$/dt/republic-mobile-android/app/src/main/java/com/rjet/crewlife/java/modules/settings/SettingsViewModel.java" timestamp="1446062307241">
         <mark key="]" line="28" column="111" />
@@ -85,12 +86,11 @@
         <mark key="." line="13" column="17" />
         <mark key="[" line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/dt/republic-mobile-android/app/src/main/AndroidManifest.xml" timestamp="1446063540701">
+      <file name="$USER_HOME$/dt/republic-mobile-android/app/src/main/AndroidManifest.xml" timestamp="1446120867669">
         <mark key="'" line="0" column="0" />
-        <mark key="]" line="61" column="53" />
-        <mark key="^" line="61" column="53" />
-        <mark key="." line="61" column="53" />
-        <mark key="[" line="60" column="41" />
+        <mark key="]" line="61" column="0" />
+        <mark key="." line="61" column="0" />
+        <mark key="[" line="61" column="0" />
       </file>
       <file name="$USER_HOME$/dt/republic-mobile-android/app/src/test/java/com/rjet/crewlife/java/modules/directory/DirectoryEntryPresenterTest.java" timestamp="1445441344736">
         <mark key="'" line="33" column="35" />
@@ -105,11 +105,17 @@
         <mark key="." line="32" column="44" />
         <mark key="[" line="32" column="41" />
       </file>
-      <file name="$USER_HOME$/dt/republic-mobile-android/app/src/main/java/com/rjet/crewlife/java/modules/settings/SettingsTable.java" timestamp="1446063223076">
-        <mark key="]" line="26" column="28" />
-        <mark key="^" line="26" column="28" />
-        <mark key="." line="26" column="28" />
-        <mark key="[" line="24" column="9" />
+      <file name="$USER_HOME$/dt/republic-mobile-android/app/src/main/res/layout/tool_bar.xml" timestamp="1446121108117">
+        <mark key="]" line="9" column="10" />
+        <mark key="^" line="9" column="10" />
+        <mark key="." line="9" column="10" />
+        <mark key="[" line="9" column="4" />
+      </file>
+      <file name="$USER_HOME$/dt/republic-mobile-android/app/src/main/java/com/rjet/crewlife/java/modules/settings/SettingsTable.java" timestamp="1446121548184">
+        <mark key="]" line="24" column="0" />
+        <mark key="^" line="23" column="11" />
+        <mark key="." line="24" column="0" />
+        <mark key="[" line="24" column="0" />
       </file>
       <file name="$USER_HOME$/dt/republic-mobile-android/app/src/main/java/com/rjet/crewlife/android/ui/MainActivity.java" timestamp="1446058418963">
         <mark key="]" line="59" column="1" />
@@ -117,6 +123,15 @@
         <mark key="[" line="59" column="0" />
       </file>
       <file name="$USER_HOME$/dt/republic-mobile-android/app/src/main/java/com/rjet/crewlife/java/modules/drawer/DrawerPresenter.java" timestamp="1446061200709" />
+      <file name="/a.regexp" timestamp="1446121101521">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/dt/republic-mobile-android/app/build/intermediates/exploded-aar/Chart-2015.1.225-dev-release/res/values/values.xml" timestamp="1446122514503">
+        <mark key="]" line="51" column="58" />
+        <mark key="^" line="51" column="58" />
+        <mark key="." line="51" column="58" />
+        <mark key="[" line="51" column="47" />
+      </file>
       <file name="$USER_HOME$/dt/republic-mobile-android/app/src/main/java/com/rjet/crewlife/android/ui/flight_details/InFlightServiceViewHolder.java" timestamp="1445961929921">
         <mark key="]" line="43" column="0" />
         <mark key="^" line="39" column="27" />
@@ -126,12 +141,11 @@
       <file name="$USER_HOME$/dt/republic-mobile-android/app/src/main/java/com/rjet/crewlife/android/ui/directory/DirectoryFragment.java" timestamp="1445876368129">
         <mark key="[" line="92" column="75" />
       </file>
-      <file name="$USER_HOME$/dt/republic-mobile-android/app/src/main/java/com/rjet/crewlife/java/modules/settings/SettingsRow.java" timestamp="1446063378600">
+      <file name="$USER_HOME$/dt/republic-mobile-android/app/src/main/java/com/rjet/crewlife/java/modules/settings/SettingsRow.java" timestamp="1446122467419">
         <mark key="'" line="18" column="17" />
-        <mark key="]" line="39" column="28" />
-        <mark key="^" line="39" column="28" />
-        <mark key="." line="39" column="28" />
-        <mark key="[" line="37" column="64" />
+        <mark key="]" line="36" column="0" />
+        <mark key="." line="36" column="0" />
+        <mark key="[" line="36" column="0" />
       </file>
       <file name="$USER_HOME$/Development/MyApplication/app/src/main/java/com/test/myapplication/TodoListActivity.java" timestamp="1446054776458" />
       <file name="$USER_HOME$/dt/republic-mobile-android/app/src/main/java/com/rjet/crewlife/java/common/db/record/DirectoryEntryRecord.java" timestamp="1445375447041">
@@ -141,19 +155,20 @@
         <mark key="." line="112" column="59" />
         <mark key="[" line="111" column="61" />
       </file>
-      <file name="$USER_HOME$/dt/republic-mobile-android/app/src/main/java/com/rjet/crewlife/java/modules/settings/SettingsSwitchViewModel.java" timestamp="1446062445568">
+      <file name="$USER_HOME$/dt/republic-mobile-android/app/src/main/java/com/rjet/crewlife/java/modules/settings/SettingsSwitchViewModel.java" timestamp="1446120844826">
         <mark key="]" line="16" column="17" />
         <mark key="^" line="16" column="17" />
         <mark key="." line="16" column="17" />
         <mark key="[" line="13" column="5" />
       </file>
-      <file name="$USER_HOME$/dt/republic-mobile-android/app/src/main/res/layout/row_settings_switch.xml" timestamp="1446063481602">
-        <mark key="'" line="2" column="4" />
-        <mark key="]" line="35" column="32" />
-        <mark key="^" line="34" column="37" />
-        <mark key="." line="35" column="32" />
-        <mark key="[" line="35" column="31" />
+      <file name="$USER_HOME$/dt/republic-mobile-android/app/src/main/res/layout/row_settings_switch.xml" timestamp="1446121817309">
+        <mark key="'" line="6" column="0" />
+        <mark key="]" line="31" column="10" />
+        <mark key="^" line="31" column="10" />
+        <mark key="." line="31" column="10" />
+        <mark key="[" line="30" column="0" />
       </file>
+      <file name="$USER_HOME$/dt/republic-mobile-android/app/src/main/res/values-v21/styles.xml" timestamp="1446121505119" />
       <file name="$USER_HOME$/dt/republic-mobile-android/app/src/main/java/com/rjet/crewlife/android/widget/CrewMemberSummaryView.java" timestamp="1446062105288">
         <mark key="]" line="34" column="33" />
         <mark key="[" line="34" column="0" />
@@ -199,7 +214,12 @@
         <mark key="." line="36" column="45" />
         <mark key="[" line="36" column="43" />
       </file>
-      <file name="$USER_HOME$/dt/republic-mobile-android/app/src/main/java/com/rjet/crewlife/android/ui/settings/SettingsActivity.java" timestamp="1446062704237" />
+      <file name="$USER_HOME$/dt/republic-mobile-android/app/src/main/java/com/rjet/crewlife/android/ui/settings/SettingsActivity.java" timestamp="1446121053088">
+        <mark key="]" line="69" column="0" />
+        <mark key="^" line="65" column="36" />
+        <mark key="." line="69" column="0" />
+        <mark key="[" line="69" column="0" />
+      </file>
       <file name="$USER_HOME$/dt/republic-mobile-android/app/src/main/res/layout/fragment_settings.xml" timestamp="1446062662414">
         <mark key="'" line="54" column="8" />
         <mark key="]" line="55" column="0" />
@@ -231,7 +251,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="21" filename="$USER_HOME$/dt/republic-mobile-android/app/src/main/java/com/rjet/crewlife/android/ui/directory/DirectoryEntryAdapter.java" />
       <jump line="14" column="47" filename="$USER_HOME$/dt/republic-mobile-android/app/src/main/java/com/rjet/crewlife/java/common/models/Directory.java" />
       <jump line="38" column="13" filename="$USER_HOME$/dt/republic-mobile-android/app/src/main/java/com/rjet/crewlife/java/modules/directory/DirectoryInteractor.java" />
       <jump line="9" column="27" filename="$USER_HOME$/dt/republic-mobile-android/app/src/main/java/com/rjet/crewlife/java/common/models/DirectorySection.java" />
@@ -331,10 +350,11 @@
       <jump line="68" column="26" filename="$USER_HOME$/dt/republic-mobile-android/app/src/main/java/com/rjet/crewlife/android/ui/settings/SettingsFragment.java" />
       <jump line="9" column="31" filename="$USER_HOME$/dt/republic-mobile-android/app/src/main/res/layout/row_settings_switch.xml" />
       <jump line="2" column="4" filename="$USER_HOME$/dt/republic-mobile-android/app/src/main/res/layout/row_settings_switch.xml" />
+      <jump line="6" column="0" filename="$USER_HOME$/dt/republic-mobile-android/app/src/main/res/layout/row_settings_switch.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>Theme.Light</text>
       </register>
       <register name="d" type="4">
         <text>.DarkActionBar</text>
@@ -343,7 +363,7 @@
         <text>Timber</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>Theme.Light</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -3111,40 +3131,40 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAoQXBwQ29tcGF0QWN0aXZpdHkpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBCdXR0ZXJLbmlmZS5pbmplY3QodGhpcyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBMYXlvdXRJbmZsYXRlci5mcm9tKGNvbnRleHQpLgo=</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">IA==</text>
+        <text>Theme.Light</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBMYXlvdXRJbmZsYXRlci5mcm9tKGNvbnRleHQpLmluZmxhdGUoUi5sYXlvdXQucm93X3NldHRpbmdzX3N3aXRjaCwgdGhpcywgdHJ1ZSk7CgogICAgICAgIEJ1dHRlcktuaWZlLmluamVjdCh0aGlzKTsK</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnRleHRPbj0iT24iCg==</text>
       </register>
-      <register name="7" type="4">
-        <text>)</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmJhY2tncm91bmQ9IkBjb2xvci9yZWQiCg==</text>
       </register>
-      <register name="6" type="4">
-        <text>;</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIDxhbmRyb2lkLnN1cHBvcnQudjcud2lkZ2V0LlN3aXRjaENvbXBhdAo=</text>
       </register>
       <register name="q" type="4">
         <text>jp</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBTZXR0aW5nc1RhCg==</text>
+        <text encoding="base64">ICAgICAgICBUaW1iZXIuZSgpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZihjb250ZXh0IGluc3RhbmNlb2YgKQo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/final//g</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBMYXlvdXRJbmZsYXRlci5mcm9tKGNvbnRleHQpLmluZmxhdGUoUi5sYXlvdXQucm93X3NldHRpbmdzX3N3aXRjaCwgdGhpcywgdHJ1ZSk7Cg==</text>
+      <register name="9" type="4">
+        <text>Table table = new SettingsTable(getActivity()</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text>getActivity()</text>
       </register>
     </registers>
     <search>
