@@ -2,14 +2,48 @@
   <component name="VimSettings">
     <state version="4" enabled="true" />
     <globalmarks />
-    <filemarks />
+    <filemarks>
+      <file name="$USER_HOME$/dt/republic-mobile-android/app/src/main/java/com/rjet/crewlife/android/ui/settings/SettingsFragment.java" timestamp="1446123067111">
+        <mark key="]" line="62" column="64" />
+        <mark key="^" line="62" column="64" />
+        <mark key="." line="62" column="64" />
+        <mark key="[" line="62" column="52" />
+      </file>
+      <file name="$USER_HOME$/dt/republic-mobile-android/app/src/main/res/layout/row_settings_switch.xml" timestamp="1446122959328">
+        <mark key="]" line="34" column="22" />
+        <mark key="^" line="34" column="22" />
+        <mark key="." line="34" column="22" />
+        <mark key="[" line="34" column="22" />
+      </file>
+      <file name="$USER_HOME$/dt/republic-mobile-android/app/src/main/java/com/rjet/crewlife/android/ui/settings/SettingsActivity.java" timestamp="1446123172894">
+        <mark key="]" line="36" column="39" />
+        <mark key="^" line="36" column="39" />
+        <mark key="." line="36" column="39" />
+        <mark key="[" line="36" column="39" />
+      </file>
+    </filemarks>
     <jumps />
-    <registers />
+    <registers>
+      <register name="&quot;" type="4">
+        <text>c</text>
+      </register>
+      <register name="1" type="4">
+        <text>c</text>
+      </register>
+      <register name="-" type="4">
+        <text>c</text>
+      </register>
+    </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
-    <history />
+    <history>
+      <history-search />
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
     <shortcut-conflicts />
     <editor>
       <key-repeat enabled="true" />
