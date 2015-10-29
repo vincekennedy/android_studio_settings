@@ -1,4 +1,8 @@
 <keymap version="1" name="Mac OS X copy" parent="Mac OS X">
+  <action id="ExportToTextFile" />
+  <action id="OverrideMethods">
+    <keyboard-shortcut first-keystroke="control O" />
+  </action>
   <action id="Replace">
     <keyboard-shortcut first-keystroke="control R" />
   </action>
@@ -19,5 +23,8 @@
   </action>
   <action id="SwitchUp">
     <keyboard-shortcut first-keystroke="control alt UP" />
+  </action>
+  <action id="XDebugger.JumpToSource">
+    <keyboard-shortcut first-keystroke="meta O" />
   </action>
 </keymap>

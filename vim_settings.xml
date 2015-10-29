@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/dt/republic-mobile-android/app/src/main/java/com/rjet/crewlife/android/ui/settings/SettingsFragment.java" timestamp="1446123067111">
+      <file name="$USER_HOME$/dt/republic-mobile-android/app/src/main/java/com/rjet/crewlife/android/ui/settings/SettingsFragment.java" timestamp="1446123745162">
         <mark key="]" line="62" column="64" />
         <mark key="^" line="62" column="64" />
         <mark key="." line="62" column="64" />
@@ -15,23 +15,51 @@
         <mark key="." line="34" column="22" />
         <mark key="[" line="34" column="22" />
       </file>
-      <file name="$USER_HOME$/dt/republic-mobile-android/app/src/main/java/com/rjet/crewlife/android/ui/settings/SettingsActivity.java" timestamp="1446123172894">
+      <file name="$USER_HOME$/dt/republic-mobile-android/app/src/main/res/layout/fragment_settings.xml" timestamp="1446123868618">
+        <mark key="'" line="14" column="42" />
+        <mark key="]" line="41" column="46" />
+        <mark key="^" line="41" column="46" />
+        <mark key="." line="43" column="48" />
+        <mark key="[" line="41" column="46" />
+      </file>
+      <file name="$USER_HOME$/dt/republic-mobile-android/app/src/main/java/com/rjet/crewlife/android/ui/settings/SettingsActivity.java" timestamp="1446123373066">
         <mark key="]" line="36" column="39" />
         <mark key="^" line="36" column="39" />
         <mark key="." line="36" column="39" />
         <mark key="[" line="36" column="39" />
       </file>
     </filemarks>
-    <jumps />
+    <jumps>
+      <jump line="5" column="0" filename="$USER_HOME$/dt/republic-mobile-android/app/src/main/res/layout/fragment_settings.xml" />
+      <jump line="14" column="42" filename="$USER_HOME$/dt/republic-mobile-android/app/src/main/res/layout/fragment_settings.xml" />
+    </jumps>
     <registers>
+      <register name="3" type="4">
+        <text>&quot;</text>
+      </register>
       <register name="&quot;" type="4">
-        <text>c</text>
+        <text>t</text>
+      </register>
+      <register name="2" type="4">
+        <text>SwitchCompat</text>
       </register>
       <register name="1" type="4">
+        <text>t</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IndyYXBfY29udGVudCIKICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJ3cmFwX2NvbnRlbnQiCg==</text>
+      </register>
+      <register name="6" type="4">
         <text>c</text>
       </register>
+      <register name="5" type="4">
+        <text>/</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIDwvRnJhbWVMYXlvdXQ+Cg==</text>
+      </register>
       <register name="-" type="4">
-        <text>c</text>
+        <text>t</text>
       </register>
     </registers>
     <search>
@@ -44,7 +72,11 @@
       <history-expr />
       <history-input />
     </history>
-    <shortcut-conflicts />
+    <shortcut-conflicts>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
     <editor>
       <key-repeat enabled="true" />
     </editor>
