@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/dt/republic-mobile-android/app/src/main/java/com/rjet/crewlife/android/ui/settings/SettingsFragment.java" timestamp="1446123745162">
-        <mark key="]" line="62" column="64" />
-        <mark key="^" line="62" column="64" />
-        <mark key="." line="62" column="64" />
-        <mark key="[" line="62" column="52" />
+      <file name="$USER_HOME$/dt/republic-mobile-android/app/src/main/java/com/rjet/crewlife/android/ui/settings/SettingsFragment.java" timestamp="1446125094265">
+        <mark key="]" line="63" column="57" />
+        <mark key="^" line="63" column="57" />
+        <mark key="." line="63" column="57" />
+        <mark key="[" line="63" column="57" />
       </file>
       <file name="$USER_HOME$/dt/republic-mobile-android/app/src/main/res/layout/row_settings_switch.xml" timestamp="1446122959328">
         <mark key="]" line="34" column="22" />
@@ -15,51 +15,63 @@
         <mark key="." line="34" column="22" />
         <mark key="[" line="34" column="22" />
       </file>
-      <file name="$USER_HOME$/dt/republic-mobile-android/app/src/main/res/layout/fragment_settings.xml" timestamp="1446123868618">
-        <mark key="'" line="14" column="42" />
-        <mark key="]" line="41" column="46" />
-        <mark key="^" line="41" column="46" />
-        <mark key="." line="43" column="48" />
-        <mark key="[" line="41" column="46" />
+      <file name="$USER_HOME$/dt/republic-mobile-android/app/src/main/res/layout/fragment_settings.xml" timestamp="1446125029936">
+        <mark key="'" line="50" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+        <mark key="[" line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/dt/republic-mobile-android/app/src/main/java/com/rjet/crewlife/android/ui/settings/SettingsActivity.java" timestamp="1446123373066">
-        <mark key="]" line="36" column="39" />
-        <mark key="^" line="36" column="39" />
-        <mark key="." line="36" column="39" />
-        <mark key="[" line="36" column="39" />
+      <file name="$USER_HOME$/dt/republic-mobile-android/app/src/main/java/com/rjet/crewlife/android/ui/settings/SettingsActivity.java" timestamp="1446125305276">
+        <mark key="[" line="38" column="23" />
+      </file>
+      <file name="$USER_HOME$/dt/republic-mobile-android/app/src/main/java/com/rjet/crewlife/java/modules/settings/SettingsRow.java" timestamp="1446125115581">
+        <mark key="]" line="35" column="35" />
+        <mark key="^" line="35" column="35" />
+        <mark key="." line="35" column="35" />
+        <mark key="[" line="35" column="25" />
       </file>
     </filemarks>
     <jumps>
       <jump line="5" column="0" filename="$USER_HOME$/dt/republic-mobile-android/app/src/main/res/layout/fragment_settings.xml" />
       <jump line="14" column="42" filename="$USER_HOME$/dt/republic-mobile-android/app/src/main/res/layout/fragment_settings.xml" />
+      <jump line="51" column="0" filename="$USER_HOME$/dt/republic-mobile-android/app/src/main/res/layout/fragment_settings.xml" />
     </jumps>
     <registers>
       <register name="3" type="4">
-        <text>&quot;</text>
+        <text>c</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>t</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBzZXR1cFRvb2xiYXIoKTsK</text>
       </register>
       <register name="2" type="4">
-        <text>SwitchCompat</text>
+        <text>getActivity()</text>
       </register>
-      <register name="1" type="4">
-        <text>t</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBzZXR1cFRvb2xiYXIoKTsK</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IndyYXBfY29udGVudCIKICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJ3cmFwX2NvbnRlbnQiCg==</text>
       </register>
-      <register name="6" type="4">
-        <text>c</text>
+      <register name="7" type="4">
+        <text>SwitchCompat</text>
       </register>
-      <register name="5" type="4">
-        <text>/</text>
+      <register name="6" type="4">
+        <text>t</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICA8YW5kcm9pZC5zdXBwb3J0LnY3LndpZGdldC5Td2l0Y2hDb21wYXQKICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IndyYXBfY29udGVudCIKICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJ3cmFwX2NvbnRlbnQiIC8+Cg==</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgIDwhLS0mbHQ7ISZuZGFzaDsgVmVyc2lvbiBOdW1iZXImbmRhc2g7Jmd0Oy0tPgo=</text>
+      </register>
+      <register name="9" type="2">
         <text encoding="base64">ICAgIDwvRnJhbWVMYXlvdXQ+Cg==</text>
       </register>
+      <register name="8" type="4">
+        <text>&quot;</text>
+      </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>getActivity()</text>
       </register>
     </registers>
     <search>
