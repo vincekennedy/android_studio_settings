@@ -3,11 +3,17 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/dt/republic-mobile-android/app/src/main/java/com/rjet/crewlife/android/ui/settings/SettingsFragment.java" timestamp="1446125094265">
-        <mark key="]" line="63" column="57" />
-        <mark key="^" line="63" column="57" />
-        <mark key="." line="63" column="57" />
-        <mark key="[" line="63" column="57" />
+      <file name="$USER_HOME$/dt/republic-mobile-android/app/src/main/java/com/rjet/crewlife/android/ui/settings/SettingsFragment.java" timestamp="1446127976412">
+        <mark key="]" line="65" column="60" />
+        <mark key="^" line="65" column="60" />
+        <mark key="." line="65" column="60" />
+        <mark key="[" line="65" column="48" />
+      </file>
+      <file name="$USER_HOME$/dt/republic-mobile-android/app/src/main/java/com/rjet/crewlife/java/modules/settings/SettingsTable.java" timestamp="1446127997566">
+        <mark key="]" line="23" column="54" />
+        <mark key="^" line="23" column="54" />
+        <mark key="." line="23" column="54" />
+        <mark key="[" line="23" column="54" />
       </file>
       <file name="$USER_HOME$/dt/republic-mobile-android/app/src/main/res/layout/row_settings_switch.xml" timestamp="1446122959328">
         <mark key="]" line="34" column="22" />
@@ -21,14 +27,16 @@
         <mark key="." line="12" column="0" />
         <mark key="[" line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/dt/republic-mobile-android/app/src/main/java/com/rjet/crewlife/android/ui/settings/SettingsActivity.java" timestamp="1446125305276">
-        <mark key="[" line="38" column="23" />
+      <file name="$USER_HOME$/dt/republic-mobile-android/app/src/main/java/com/rjet/crewlife/android/ui/settings/SettingsActivity.java" timestamp="1446127200796">
+        <mark key="]" line="40" column="67" />
+        <mark key="^" line="40" column="67" />
+        <mark key="." line="40" column="67" />
+        <mark key="[" line="40" column="20" />
       </file>
-      <file name="$USER_HOME$/dt/republic-mobile-android/app/src/main/java/com/rjet/crewlife/java/modules/settings/SettingsRow.java" timestamp="1446125115581">
-        <mark key="]" line="35" column="35" />
-        <mark key="^" line="35" column="35" />
-        <mark key="." line="35" column="35" />
-        <mark key="[" line="35" column="25" />
+      <file name="$USER_HOME$/dt/republic-mobile-android/app/src/main/java/com/rjet/crewlife/java/modules/settings/SettingsRow.java" timestamp="1446127102950">
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
+        <mark key="[" line="37" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -38,37 +46,37 @@
     </jumps>
     <registers>
       <register name="3" type="4">
-        <text>c</text>
+        <text>themedContext</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzZXR1cFRvb2xiYXIoKTsK</text>
-      </register>
-      <register name="2" type="4">
+      <register name="&quot;" type="4">
         <text>getActivity()</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZXR1cFRvb2xiYXIoKTsK</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgVGltYmVyLmUoc3dpdGNoVmlld01vZGVsLnRvU3RyaW5nKCkpOwo=</text>
+      </register>
+      <register name="1" type="4">
+        <text>getActivity()</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IndyYXBfY29udGVudCIKICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJ3cmFwX2NvbnRlbnQiCg==</text>
       </register>
       <register name="7" type="4">
-        <text>SwitchCompat</text>
+        <text>A</text>
       </register>
-      <register name="6" type="4">
-        <text>t</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBUaW1iZXIuZSgiVG9vbGJhciA6ICIsIHRvb2xiYXIuKTsK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA8YW5kcm9pZC5zdXBwb3J0LnY3LndpZGdldC5Td2l0Y2hDb21wYXQKICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IndyYXBfY29udGVudCIKICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJ3cmFwX2NvbnRlbnQiIC8+Cg==</text>
+      <register name="5" type="4">
+        <text>Theme</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIDwhLS0mbHQ7ISZuZGFzaDsgVmVyc2lvbiBOdW1iZXImbmRhc2g7Jmd0Oy0tPgo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIDwvRnJhbWVMYXlvdXQ+Cg==</text>
+      <register name="9" type="4">
+        <text>getTheme()</text>
       </register>
-      <register name="8" type="4">
-        <text>&quot;</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBnZXRBY3Rpdml0eSgpLgo=</text>
       </register>
       <register name="-" type="4">
         <text>getActivity()</text>
@@ -87,6 +95,9 @@
     <shortcut-conflicts>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
