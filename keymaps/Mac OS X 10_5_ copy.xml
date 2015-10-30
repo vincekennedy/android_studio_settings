@@ -1,7 +1,11 @@
 <keymap version="1" name="Mac OS X 10.5+ copy" parent="Mac OS X 10.5+">
   <action id="Refresh" />
+  <action id="RenameElement">
+    <keyboard-shortcut first-keystroke="meta alt R" />
+  </action>
   <action id="Replace" />
   <action id="Rerun" />
+  <action id="Resume" />
   <action id="Run">
     <keyboard-shortcut first-keystroke="meta R" />
   </action>
