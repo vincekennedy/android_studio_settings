@@ -19,6 +19,11 @@
       <file name="/Dummy.txt" timestamp="1446217033543">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/dt/republic-mobile-android/app/src/main/java/com/rjet/crewlife/java/modules/settings/SettingsPresenter.java" timestamp="1446217174468">
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
+        <mark key="[" line="27" column="0" />
+      </file>
       <file name="$USER_HOME$/dt/republic-mobile-android/app/src/main/res/layout/fragment_settings.xml" timestamp="1446133334186">
         <mark key="'" line="53" column="0" />
         <mark key="]" line="52" column="0" />
@@ -122,8 +127,8 @@
       <jump line="33" column="0" filename="$USER_HOME$/dt/republic-mobile-android/app/src/main/java/com/rjet/crewlife/java/modules/settings/SettingsRow.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>switchListener</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIC8qKgogICAgICAgIFNldHRpbmdzVmlldy5JbnRlcmFjdGlvbkhhbmRsZXIKICAgICAqLwo=</text>
       </register>
       <register name="/" type="4">
         <text>Divider</text>
@@ -132,34 +137,34 @@
         <text>switchListener</text>
       </register>
       <register name="3" type="4">
-        <text>public</text>
+        <text>switchListener</text>
       </register>
       <register name="2" type="4">
         <text>switchListener</text>
       </register>
-      <register name="1" type="4">
-        <text>switchListener</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIC8qKgogICAgICAgIFNldHRpbmdzVmlldy5JbnRlcmFjdGlvbkhhbmRsZXIKICAgICAqLwo=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Ly8gICAgQE9uQ2hlY2tlZENoYW5nZWQoUi5pZC5zd2l0Y2hfdGltZXpvbmVfc2V0dGluZ3MpCi8vICAgIHZvaWQgb25UaW1lWm9uZVNldHRpbmdDaGFuZ2VkKGJvb2xlYW4gZW5hYmxlZFRpbWVab25lcykgewovLyAgICAgICAgaW50ZXJhY3Rpb25IYW5kbGVyLm9uVGltZVpvbmVTZXR0aW5nQ2hhbmdlZChlbmFibGVkVGltZVpvbmVzKTsKLy8gICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">CiAgICAgICAgdGhpcy5zZXR0aW5nLnNldE9uQ2hlY2tlZENoYW5nZUxpc3RlbmVyKHZlcnMpOwo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>vers</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgIH0=</text>
+      <register name="4" type="4">
+        <text>public</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">ICAgIEBPbkNoZWNrZWRDaGFuZ2VkKFIuaWQuc3dpdGNoX3NldHRpbmdzX29wdGlvbikKICAgIHZvaWQgb25UaW1lWm9uZVNldHRpbmdDaGFuZ2VkKGJvb2xlYW4gZW5hYmxlZFRpbWVab25lcykgewpW</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
