@@ -8,21 +8,25 @@
         <mark key="." line="26" column="0" />
         <mark key="[" line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/dt/republic-mobile-android/app/src/main/java/com/rjet/crewlife/java/modules/settings/SettingsVersionViewModel.java" timestamp="1446224321104">
+      <file name="$USER_HOME$/dt/republic-mobile-android/app/src/main/java/com/rjet/crewlife/java/modules/settings/SettingsVersionViewModel.java" timestamp="1446232164262">
         <mark key="'" line="8" column="13" />
-        <mark key="]" line="17" column="0" />
-        <mark key="^" line="3" column="49" />
-        <mark key="." line="17" column="0" />
-        <mark key="[" line="17" column="0" />
+        <mark key="[" line="19" column="5" />
+      </file>
+      <file name="$USER_HOME$/dt/republic-mobile-android/app/src/main/java/com/rjet/crewlife/java/modules/settings/SettingsViewModelBuilder.java" timestamp="1446232171191">
+        <mark key="]" line="10" column="56" />
+        <mark key="^" line="10" column="56" />
+        <mark key="." line="10" column="56" />
+        <mark key="[" line="10" column="45" />
       </file>
       <file name="/Dummy.txt" timestamp="1446217033543">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dt/republic-mobile-android/app/src/main/java/com/rjet/crewlife/java/modules/settings/SettingsPresenter.java" timestamp="1446228686446">
-        <mark key="]" line="44" column="71" />
-        <mark key="^" line="44" column="71" />
-        <mark key="." line="44" column="71" />
-        <mark key="[" line="44" column="71" />
+      <file name="$USER_HOME$/dt/republic-mobile-android/app/src/main/java/com/rjet/crewlife/java/modules/settings/SettingsPresenter.java" timestamp="1446232702141">
+        <mark key="'" line="34" column="77" />
+        <mark key="]" line="22" column="7" />
+        <mark key="^" line="22" column="7" />
+        <mark key="." line="22" column="7" />
+        <mark key="[" line="21" column="47" />
       </file>
       <file name="$USER_HOME$/dt/republic-mobile-android/app/src/main/res/layout/fragment_settings.xml" timestamp="1446133334186">
         <mark key="'" line="53" column="0" />
@@ -47,10 +51,11 @@
       <file name="/fragment.java" timestamp="1446217033550">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dt/republic-mobile-android/app/src/main/java/com/rjet/crewlife/java/modules/settings/SettingsViewModel.java" timestamp="1446228706369">
-        <mark key="]" line="85" column="0" />
-        <mark key="." line="85" column="0" />
-        <mark key="[" line="85" column="0" />
+      <file name="$USER_HOME$/dt/republic-mobile-android/app/src/main/java/com/rjet/crewlife/java/modules/settings/SettingsViewModel.java" timestamp="1446232215006">
+        <mark key="'" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+        <mark key="[" line="22" column="0" />
       </file>
       <file name="$USER_HOME$/dt/republic-mobile-android/app/src/main/res/layout/activity_main.xml" timestamp="1446215393964">
         <mark key="]" line="2" column="50" />
@@ -63,7 +68,7 @@
         <mark key="." line="22" column="63" />
         <mark key="[" line="22" column="42" />
       </file>
-      <file name="$USER_HOME$/dt/republic-mobile-android/app/src/main/java/com/rjet/crewlife/java/modules/settings/SettingsSwitchViewModel.java" timestamp="1446217030828">
+      <file name="$USER_HOME$/dt/republic-mobile-android/app/src/main/java/com/rjet/crewlife/java/modules/settings/SettingsSwitchViewModel.java" timestamp="1446232198340">
         <mark key="'" line="12" column="46" />
         <mark key="]" line="8" column="8" />
         <mark key="^" line="8" column="8" />
@@ -119,49 +124,51 @@
       <jump line="62" column="12" filename="$USER_HOME$/dt/republic-mobile-android/app/src/main/java/com/rjet/crewlife/java/modules/settings/SettingsViewModel.java" />
       <jump line="13" column="28" filename="$USER_HOME$/dt/republic-mobile-android/app/src/main/java/com/rjet/crewlife/java/modules/settings/SettingsViewModel.java" />
       <jump line="8" column="13" filename="$USER_HOME$/dt/republic-mobile-android/app/src/main/java/com/rjet/crewlife/java/modules/settings/SettingsVersionViewModel.java" />
+      <jump line="22" column="0" filename="$USER_HOME$/dt/republic-mobile-android/app/src/main/java/com/rjet/crewlife/java/modules/settings/SettingsViewModel.java" />
+      <jump line="40" column="77" filename="$USER_HOME$/dt/republic-mobile-android/app/src/main/java/com/rjet/crewlife/java/modules/settings/SettingsPresenter.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgQnVpbGRlciBzZXR0aW5nc1ZlcnNpb25WaWV3TW9kZWwoZmluYWwgU2V0dGluZ3NWZXJzaW9uVmlld01vZGVsIHZhbCkgewogICAgICAgICAgICBzZXR0aW5nc1ZlcnNpb25WaWV3TW9kZWwgPSB2YWw7CiAgICAgICAgICAgIHJldHVybiB0aGlzOwogICAgICAgIH0KCg==</text>
+        <text encoding="base64">CiAgICBwdWJsaWMgU2V0dGluZ3NQcmVzZW50ZXIoU2V0dGluZ3Mgc2V0dGluZ3MsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgRGF0YVN5bmMgZGF0YVN5bmMsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgU3RyaW5nIHZlcnNpb25OdW1iZXIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaW50IGJ1aWxkTnVtYmVyKSB7CiAgICAgICAgdGhpcyhzZXR0aW5ncywgZGF0YVN5bmMsIHZlcnNpb25OdW1iZXIsIGJ1aWxkTnVtYmVyKTsKICAgIH0K</text>
       </register>
       <register name="/" type="4">
         <text>buildNumber</text>
       </register>
       <register name="-" type="4">
-        <text>newBuilder</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5zZXR0aW5nc1YK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIFNldHRpbmdzVmVyc2lvblZpZXdNb2RlbCBzZXR0aW5nc1ZlcnNpb25WaWV3TW9kZWw7Cg==</text>
-      </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgQnVpbGRlciBzZXR0aW5nc1ZlcnNpb25WaWV3TW9kZWwoZmluYWwgU2V0dGluZ3NWZXJzaW9uVmlld01vZGVsIHZhbCkgewogICAgICAgICAgICBzZXR0aW5nc1ZlcnNpb25WaWV3TW9kZWwgPSB2YWw7CiAgICAgICAgICAgIHJldHVybiB0aGlzOwogICAgICAgIH0KCg==</text>
-      </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnNldHRpbmdzVGl0bGUgPSAiU29mdHdhcmUgVmVyc2lvbiI7Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnNldHRpbmdzVGl0bGUgPSAiU29mdHdhcmUgVmVyc2lvbiI7Cg==</text>
-      </register>
-      <register name="6" type="4">
-        <text>&quot;Software Version&quot;,</text>
-      </register>
-      <register name="5" type="4">
         <text encoding="base64">IA==</text>
       </register>
+      <register name="3" type="4">
+        <text>,</text>
+      </register>
+      <register name="2" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">CiAgICBwdWJsaWMgU2V0dGluZ3NQcmVzZW50ZXIoU2V0dGluZ3Mgc2V0dGluZ3MsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgRGF0YVN5bmMgZGF0YVN5bmMsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgU3RyaW5nIHZlcnNpb25OdW1iZXIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaW50IGJ1aWxkTnVtYmVyKSB7CiAgICAgICAgdGhpcyhzZXR0aW5ncywgZGF0YVN5bmMsIHZlcnNpb25OdW1iZXIsIGJ1aWxkTnVtYmVyKTsKICAgIH0K</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0aGlzLnNldHRpbmdzLmdldFRpbWV6b25lU2V0dGluZygpLAo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgU2V0dGluZ3NWaWV3TW9kZWxCdWlsZGVyIGJ1aWxkZXI7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICB0aGlzLmJ1aWxkZXIgPSBidWlsZGVyOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICBTZXR0aW5nc1ZpZXdNb2RlbEJ1aWxkZXIgYnVpbGRlciwK</text>
+      </register>
       <register name="4" type="4">
-        <text>newBuilder</text>
+        <text>new SettingsViewModelBuilder()</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz4lcy9idWlsZE51bWJlci92ZXJzaW9uTnVtYmVy</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzKGJ1aWxkZXIuYnVpbGROdW1iZXIsIGJ1aWxkZXIudmVyc2lvbk51bWJlcikpOwo=</text>
+      <register name="9" type="4">
+        <text>null</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnNldHRpbmdzVGl0bGUgPSAiU29mdHdhcmUgVmVyc2lvbiI7Cg==</text>
+      <register name="8" type="4">
+        <text>onAutomaticRefreshChanged</text>
       </register>
     </registers>
     <search>
