@@ -1,11 +1,7 @@
-<keymap version="1" name="Mac OS X copy" parent="Mac OS X">
-  <action id="ExportToTextFile" />
-  <action id="OverrideMethods">
-    <keyboard-shortcut first-keystroke="control O" />
-  </action>
-  <action id="Replace">
-    <keyboard-shortcut first-keystroke="control R" />
-  </action>
+<keymap version="1" name="Mac OS X 10.5+ copy" parent="Mac OS X 10.5+">
+  <action id="Refresh" />
+  <action id="Replace" />
+  <action id="Rerun" />
   <action id="Run">
     <keyboard-shortcut first-keystroke="meta R" />
   </action>
@@ -24,7 +20,5 @@
   <action id="SwitchUp">
     <keyboard-shortcut first-keystroke="control alt UP" />
   </action>
-  <action id="XDebugger.JumpToSource">
-    <keyboard-shortcut first-keystroke="meta O" />
-  </action>
+  <action id="UsageView.Rerun" />
 </keymap>
