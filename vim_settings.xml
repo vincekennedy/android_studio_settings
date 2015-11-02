@@ -21,19 +21,6 @@
       <file name="/Dummy.txt" timestamp="1446217033543">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dt/republic-mobile-android/app/src/main/java/com/rjet/crewlife/java/modules/settings/SettingsPresenter.java" timestamp="1446232702141">
-        <mark key="'" line="34" column="77" />
-        <mark key="]" line="22" column="7" />
-        <mark key="^" line="22" column="7" />
-        <mark key="." line="22" column="7" />
-        <mark key="[" line="21" column="47" />
-      </file>
-      <file name="$USER_HOME$/dt/republic-mobile-android/app/src/main/res/layout/fragment_settings.xml" timestamp="1446133334186">
-        <mark key="'" line="53" column="0" />
-        <mark key="]" line="52" column="0" />
-        <mark key="." line="52" column="0" />
-        <mark key="[" line="52" column="0" />
-      </file>
       <file name="$USER_HOME$/dt/republic-mobile-android/app/src/main/res/values/styles.xml" timestamp="1446215329880">
         <mark key="'" line="235" column="0" />
         <mark key="]" line="247" column="0" />
@@ -50,12 +37,6 @@
       </file>
       <file name="/fragment.java" timestamp="1446217033550">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/dt/republic-mobile-android/app/src/main/java/com/rjet/crewlife/java/modules/settings/SettingsViewModel.java" timestamp="1446232215006">
-        <mark key="'" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
-        <mark key="[" line="22" column="0" />
       </file>
       <file name="$USER_HOME$/dt/republic-mobile-android/app/src/main/res/layout/activity_main.xml" timestamp="1446215393964">
         <mark key="]" line="2" column="50" />
