@@ -3,6 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/dt/republic-mobile-android/app/src/main/java/com/rjet/crewlife/android/ui/MainActivity.java" timestamp="1446567911968">
+        <mark key="]" line="98" column="44" />
+        <mark key="." line="98" column="0" />
+        <mark key="[" line="98" column="0" />
+      </file>
       <file name="$USER_HOME$/dt/republic-mobile-android/app/src/main/java/com/rjet/crewlife/java/modules/settings/SettingsTable.java" timestamp="1446138023147">
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
@@ -91,7 +96,7 @@
         <mark key="." line="66" column="93" />
         <mark key="[" line="66" column="52" />
       </file>
-      <file name="$USER_HOME$/dt/republic-mobile-android/app/src/main/java/com/rjet/crewlife/java/modules/main/MainPresenter.java" timestamp="1446566801872" />
+      <file name="$USER_HOME$/dt/republic-mobile-android/app/src/main/java/com/rjet/crewlife/java/modules/main/MainPresenter.java" timestamp="1446567488936" />
       <file name="$USER_HOME$/dt/republic-mobile-android/app/src/main/java/com/rjet/crewlife/android/ui/flight_details/FlightDetailsActivity.java" timestamp="1446225611700" />
     </filemarks>
     <jumps>
@@ -138,7 +143,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
+        <text encoding="base64">ICAgICAgICBpbnRlcmFjdGlvbkhhbmRsZXIudW5yZWdpc3RlclZpZXcoKTsK</text>
       </register>
       <register name="/" type="4">
         <text>buildNumber</text>
@@ -147,37 +152,37 @@
         <text>in_from_left</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHJvdGVjdGVkIHZvaWQgb25TdGFydCgpIHsKICAgICAgICBzdXBlci5vblN0YXJ0KCk7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBpbnRlcmFjdGlvbkhhbmRsZXIudW5yZWdpc3RlclZpZXcoKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
+        <text encoding="base64">ICAgICAgICBpbnRlcmFjdGlvbkhhbmRsZXIudW5yZWdpc3RlclZpZXcoKTsK</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIGJvb2xlYW4gb25PcHRpb25zSXRlbVNlbGVjdGVkKGZpbmFsIE1lbnVJdGVtIGl0ZW0pIHsKICAgICAgICBzd2l0Y2goaXRlbS5nZXRJdGVtSWQoKSl7CiAgICAgICAgICAgIGNhc2UgYW5kcm9pZC5SLmlkLmhvbWU6CiAgICAgICAgICAgICAgICBvbkJhY2tQcmVzc2VkKCk7CiAgICAgICAgICAgICAgICByZXR1cm4gdHJ1ZTsKICAgICAgICAgICAgZGVmYXVsdDoKICAgICAgICAgICAgICAgIHJldHVybiBzdXBlci5vbk9wdGlvbnNJdGVtU2VsZWN0ZWQoaXRlbSk7CiAgICAgICAgfQogICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8qCiAgICAgICAgRGF0YVN5bmMuQ2FsbGJhY2sKICAgICAqLwo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIC8qCiAgICAgICAgSW50ZXJhY3RvciBNZXRob2RzCiAgICAgKi8K</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Ly8gICAgICAgIHRoaXMudmlzaWJpbGl0eUhhbmRsZXIuc2V0T25WaXNpYmlsaXR5Q2hhbmdlZExpc3RlbmVyKHRoaXMpOwo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBpbnRlcmFjdGlvbkhhbmRsZXIucmVnaXN0ZXJWaWV3KHRoaXMpOwogICAgICAgIHNldHVwKCk7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHJvdGVjdGVkIHZvaWQgb25TdGFydCgpIHsKICAgICAgICBzdXBlci5vblN0YXJ0KCk7CiAgICB9Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz4lcy9idWlsZE51bWJlci92ZXJzaW9uTnVtYmVy</text>
       </register>
-      <register name="9" type="4">
-        <text>in_from_left</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIC8qCiAgICAgICAgRGF0YVN5bmMuQ2FsbGJhY2sKICAgICAqLwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc2NoZWR1bGVEQU8ubG9hZFBhaXJpbmcoLTEpOwo=</text>
+        <text encoding="base64">ICAgIC8qCiAgICAgICAgSW50ZXJhY3RvciBNZXRob2RzCiAgICAgKi8K</text>
       </register>
     </registers>
     <search>
