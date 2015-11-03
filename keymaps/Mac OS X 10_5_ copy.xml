@@ -1,4 +1,7 @@
 <keymap version="1" name="Mac OS X 10.5+ copy" parent="Mac OS X 10.5+">
+  <action id="CIDR.Lang.ObjC.ConvertToMethod">
+    <keyboard-shortcut first-keystroke="control meta alt M" />
+  </action>
   <action id="Refresh" />
   <action id="RenameElement">
     <keyboard-shortcut first-keystroke="meta alt R" />
