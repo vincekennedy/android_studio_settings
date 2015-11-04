@@ -33,6 +33,11 @@
         <mark key="." line="166" column="75" />
         <mark key="[" line="166" column="58" />
       </file>
+      <file name="$USER_HOME$/dt/republic-mobile-android/app/src/main/java/com/rjet/crewlife/java/common/db/v2/AirportRecord.java" timestamp="1446666524094">
+        <mark key="]" line="39" column="30" />
+        <mark key="." line="39" column="30" />
+        <mark key="[" line="39" column="30" />
+      </file>
       <file name="$USER_HOME$/dt/republic-mobile-android/app/src/main/java/com/rjet/crewlife/java/modules/settings/SettingsRow.java" timestamp="1446571569915">
         <mark key="'" line="33" column="0" />
         <mark key="]" line="72" column="73" />
@@ -60,6 +65,11 @@
         <mark key="." line="22" column="63" />
         <mark key="[" line="22" column="42" />
       </file>
+      <file name="$USER_HOME$/dt/republic-mobile-android/app/src/main/java/com/rjet/crewlife/java/modules/trip_details/TripDetailsPresenter.java" timestamp="1446488974757">
+        <mark key="]" line="44" column="0" />
+        <mark key="." line="44" column="0" />
+        <mark key="[" line="44" column="0" />
+      </file>
       <file name="$USER_HOME$/dt/republic-mobile-android/app/src/main/java/com/rjet/crewlife/android/ui/flight_details/FlightDetailsFragment.java" timestamp="1446228548217" />
       <file name="$USER_HOME$/dt/republic-mobile-android/app/src/main/java/com/rjet/crewlife/java/common/db/dao/ScheduleDAO.java" timestamp="1446488714114">
         <mark key="]" line="88" column="64" />
@@ -74,6 +84,12 @@
         <mark key="[" line="11" column="75" />
       </file>
       <file name="$USER_HOME$/dt/republic-mobile-android/app/src/main/java/com/rjet/crewlife/java/modules/settings/SettingsView.java" timestamp="1446571544168" />
+      <file name="$USER_HOME$/dt/republic-mobile-android/app/build.gradle" timestamp="1446666359540">
+        <mark key="]" line="282" column="23" />
+        <mark key="^" line="282" column="23" />
+        <mark key="." line="282" column="23" />
+        <mark key="[" line="281" column="15" />
+      </file>
       <file name="$USER_HOME$/dt/republic-mobile-android/app/src/main/java/com/rjet/crewlife/android/widget/CrewLifeSnackBar.java" timestamp="1446572938332">
         <mark key="]" line="13" column="74" />
         <mark key="^" line="13" column="74" />
@@ -194,46 +210,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>no_connection</text>
+        <text>com.rjet.crewlife.java.common.db.record.</text>
       </register>
       <register name="/" type="4">
         <text>buildNumber</text>
       </register>
       <register name="-" type="4">
-        <text>no_connection</text>
+        <text>com.rjet.crewlife.java.common.db.record.</text>
       </register>
-      <register name="3" type="4">
-        <text>no_connection</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIGFzc29jaWF0ZSgpIHsKICAgICAgICBpZiAoa25vd25DcmV3TWVtYmVyRGlyZWN0aW9ucyAhPSBudWxsKSB7CiAgICAgICAgICAgIGZvciAoSW5zdHJ1Y3Rpb25SZWNvcmQgcmVzcG9uc2UgOiBrbm93bkNyZXdNZW1iZXJEaXJlY3Rpb25zKSB7CiAgICAgICAgICAgICAgICByZXNwb25zZS5hc3NvY2lhdGUodGhpcyk7CiAgICAgICAgICAgIH0KICAgICAgICB9CiAgICB9Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text>no_connection</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIEBPbmVUb01hbnkobWV0aG9kcyA9IE9uZVRvTWFueS5NZXRob2QuQUxMLCB2YXJpYWJsZU5hbWUgPSAia25vd25DcmV3TWVtYmVyRGlyZWN0aW9ucyIpCiAgICBwdWJsaWMgTGlzdDxjb20ucmpldC5jcmV3bGlmZS5qYXZhLmNvbW1vbi5kYi5yZWNvcmQuSW5zdHJ1Y3Rpb25SZWNvcmQ+IGdldEtub3duQ3Jld01lbWJlckRpcmVjdGlvbnMoKSB7CiAgICAgICAgaWYgKGtub3duQ3Jld01lbWJlckRpcmVjdGlvbnMgPT0gbnVsbCkgewogICAgICAgICAgICBrbm93bkNyZXdNZW1iZXJEaXJlY3Rpb25zID0gbmV3IFNlbGVjdCgpCiAgICAgICAgICAgICAgICAgICAgLmZyb20oY29tLnJqZXQuY3Jld2xpZmUuamF2YS5jb21tb24uZGIucmVjb3JkLkluc3RydWN0aW9uUmVjb3JkLmNsYXNzKQogICAgICAgICAgICAgICAgICAgIC53aGVyZShDb25kaXRpb24uY29sdW1uKEluc3RydWN0aW9uUmVjb3JkJFRhYmxlLkFJUlBPUlRDT0RFKS5pcyhpYXRhQ29kZSkpCiAgICAgICAgICAgICAgICAgICAgLnF1ZXJ5TGlzdCgpOwogICAgICAgIH0KICAgICAgICByZXR1cm4ga25vd25DcmV3TWVtYmVyRGlyZWN0aW9uczsKICAgIH0K</text>
       </register>
       <register name="1" type="4">
-        <text>no_connection</text>
+        <text>com.rjet.crewlife.java.common.db.record.</text>
       </register>
       <register name="0" type="4">
         <text>SettingsSwitchViewModel</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB3aGVuKGJ1aWxkZXIuc2V0QXV0b21hdGljUmVmcmVzaEVuYWJsZWQoYW55Qm9vbGVhbigpKSkudGhlblJldHVybihidWlsZGVyKTsKICAgICAgICB3aGVuKGJ1aWxkZXIuc2V0VGltZXpvbmVzRW5hYmxlZChhbnlCb29sZWFuKCkpKS50aGVuUmV0dXJuKGJ1aWxkZXIpOwogICAgICAgIHdoZW4oYnVpbGRlci5zZXRWZXJzaW9uQ29kZShhbnlTdHJpbmcoKSkpLnRoZW5SZXR1cm4oYnVpbGRlcik7CiAgICAgICAgd2hlbihidWlsZGVyLnNldFZlcnNpb25OYW1lKGFueVN0cmluZygpKSkudGhlblJldHVybihidWlsZGVyKTsKICAgICAgICB3aGVuKGJ1aWxkZXIuYnVpbGQoKSkudGhlblJldHVybih2aWV3TW9kZWwpOwoK</text>
+      <register name="7" type="4">
+        <text>no_connection</text>
       </register>
       <register name="6" type="4">
-        <text>viewModel</text>
+        <text>no_connection</text>
       </register>
       <register name="5" type="4">
         <text>no_connection</text>
       </register>
-      <register name="4" type="4">
-        <text>no_connection</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIC8vCg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz4lcy9idWlsZE51bWJlci92ZXJzaW9uTnVtYmVy</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB2ZXJpZnkoYnVpbGRlcikuc2V0QXV0b21hdGljUmVmcmVzaEVuYWJsZWQoYW55Qm9vbGVhbigpKTsKICAgICAgICB2ZXJpZnkoYnVpbGRlcikuc2V0VGltZXpvbmVzRW5hYmxlZChhbnlCb29sZWFuKCkpOwogICAgICAgIHZlcmlmeShidWlsZGVyKS5zZXRWZXJzaW9uQ29kZShhbnlTdHJpbmcoKSk7CiAgICAgICAgdmVyaWZ5KGJ1aWxkZXIpLnNldFZlcnNpb25OYW1lKGFueVN0cmluZygpKTsKICAgICAgICB2ZXJpZnkoYnVpbGRlcikuYnVpbGQoKTsKCg==</text>
+      <register name="9" type="4">
+        <text>no_connection</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIEBNb2NrIHByaXZhdGUgU2V0dGluZ3NWaWV3TW9kZWxCdWlsZGVyIGJ1aWxkZXI7Cg==</text>
+      <register name="8" type="4">
+        <text>no_connection</text>
       </register>
     </registers>
     <search>
