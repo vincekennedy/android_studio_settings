@@ -77,6 +77,11 @@
         <mark key="." line="88" column="64" />
         <mark key="[" line="88" column="65" />
       </file>
+      <file name="$USER_HOME$/dt/republic-mobile-android/app/src/main/java/com/rjet/crewlife/java/common/db/v2/Included.java" timestamp="1446668198228">
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="[" line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/dt/republic-mobile-android/app/src/main/java/com/rjet/crewlife/java/modules/trip_details/TripDetailsView.java" timestamp="1446488599422">
         <mark key="]" line="12" column="18" />
         <mark key="^" line="12" column="18" />
@@ -103,6 +108,13 @@
         <mark key="." line="6" column="11" />
         <mark key="[" line="6" column="4" />
       </file>
+      <file name="$USER_HOME$/dt/republic-mobile-android/app/src/main/java/com/rjet/crewlife/java/common/db/v2/ApiData.java" timestamp="1446668098345">
+        <mark key="'" line="12" column="32" />
+        <mark key="]" line="45" column="31" />
+        <mark key="^" line="45" column="31" />
+        <mark key="." line="45" column="31" />
+        <mark key="[" line="45" column="30" />
+      </file>
       <file name="$USER_HOME$/dt/republic-mobile-android/app/src/main/res/values/styles.xml" timestamp="1446215329880">
         <mark key="'" line="235" column="0" />
         <mark key="]" line="247" column="0" />
@@ -122,6 +134,13 @@
         <mark key="]" line="46" column="5" />
         <mark key="." line="37" column="0" />
         <mark key="[" line="46" column="5" />
+      </file>
+      <file name="$USER_HOME$/dt/republic-mobile-android/app/src/main/java/com/rjet/crewlife/java/common/db/v2/DutyPeriod.java" timestamp="1446668416006">
+        <mark key="'" line="5" column="4" />
+        <mark key="]" line="77" column="0" />
+        <mark key="^" line="77" column="0" />
+        <mark key="." line="77" column="0" />
+        <mark key="[" line="24" column="38" />
       </file>
       <file name="$USER_HOME$/dt/republic-mobile-android/app/src/main/AndroidManifest.xml" timestamp="1446488951986">
         <mark key="]" line="66" column="93" />
@@ -207,57 +226,103 @@
       <jump line="29" column="0" filename="$USER_HOME$/dt/republic-mobile-android/app/src/main/java/com/rjet/crewlife/java/modules/settings/SettingsPresenter.java" />
       <jump line="33" column="36" filename="$USER_HOME$/dt/republic-mobile-android/app/src/main/java/com/rjet/crewlife/java/modules/settings/SettingsPresenter.java" />
       <jump line="11" column="13" filename="$USER_HOME$/dt/republic-mobile-android/app/src/main/java/com/rjet/crewlife/android/base/BaseActivity.java" />
+      <jump line="12" column="14" filename="$USER_HOME$/dt/republic-mobile-android/app/src/main/java/com/rjet/crewlife/java/common/db/v2/ApiData.java" />
+      <jump line="14" column="32" filename="$USER_HOME$/dt/republic-mobile-android/app/src/main/java/com/rjet/crewlife/java/common/db/v2/ApiData.java" />
+      <jump line="5" column="4" filename="$USER_HOME$/dt/republic-mobile-android/app/src/main/java/com/rjet/crewlife/java/common/db/v2/DutyPeriod.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>com.rjet.crewlife.java.common.db.record.</text>
+      <register name="&quot;" type="8">
+        <text>private
+private
+private
+private
+private
+private
+private
+private
+private
+private
+private
+private
+private
+private
+private
+private
+private
+private
+private
+private</text>
       </register>
       <register name="/" type="4">
-        <text>buildNumber</text>
+        <text>@Expose</text>
       </register>
       <register name="-" type="4">
-        <text>com.rjet.crewlife.java.common.db.record.</text>
+        <text>Integer</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIGFzc29jaWF0ZSgpIHsKICAgICAgICBpZiAoa25vd25DcmV3TWVtYmVyRGlyZWN0aW9ucyAhPSBudWxsKSB7CiAgICAgICAgICAgIGZvciAoSW5zdHJ1Y3Rpb25SZWNvcmQgcmVzcG9uc2UgOiBrbm93bkNyZXdNZW1iZXJEaXJlY3Rpb25zKSB7CiAgICAgICAgICAgICAgICByZXNwb25zZS5hc3NvY2lhdGUodGhpcyk7CiAgICAgICAgICAgIH0KICAgICAgICB9CiAgICB9Cg==</text>
+      <register name="3" type="8">
+        <text>Integer
+Integer</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIEBPbmVUb01hbnkobWV0aG9kcyA9IE9uZVRvTWFueS5NZXRob2QuQUxMLCB2YXJpYWJsZU5hbWUgPSAia25vd25DcmV3TWVtYmVyRGlyZWN0aW9ucyIpCiAgICBwdWJsaWMgTGlzdDxjb20ucmpldC5jcmV3bGlmZS5qYXZhLmNvbW1vbi5kYi5yZWNvcmQuSW5zdHJ1Y3Rpb25SZWNvcmQ+IGdldEtub3duQ3Jld01lbWJlckRpcmVjdGlvbnMoKSB7CiAgICAgICAgaWYgKGtub3duQ3Jld01lbWJlckRpcmVjdGlvbnMgPT0gbnVsbCkgewogICAgICAgICAgICBrbm93bkNyZXdNZW1iZXJEaXJlY3Rpb25zID0gbmV3IFNlbGVjdCgpCiAgICAgICAgICAgICAgICAgICAgLmZyb20oY29tLnJqZXQuY3Jld2xpZmUuamF2YS5jb21tb24uZGIucmVjb3JkLkluc3RydWN0aW9uUmVjb3JkLmNsYXNzKQogICAgICAgICAgICAgICAgICAgIC53aGVyZShDb25kaXRpb24uY29sdW1uKEluc3RydWN0aW9uUmVjb3JkJFRhYmxlLkFJUlBPUlRDT0RFKS5pcyhpYXRhQ29kZSkpCiAgICAgICAgICAgICAgICAgICAgLnF1ZXJ5TGlzdCgpOwogICAgICAgIH0KICAgICAgICByZXR1cm4ga25vd25DcmV3TWVtYmVyRGlyZWN0aW9uczsKICAgIH0K</text>
+      <register name="2" type="4">
+        <text>Integer</text>
       </register>
-      <register name="1" type="4">
-        <text>com.rjet.crewlife.java.common.db.record.</text>
+      <register name="1" type="8">
+        <text>private
+private
+private
+private
+private
+private
+private
+private
+private
+private
+private
+private
+private
+private
+private
+private
+private
+private
+private
+private</text>
       </register>
       <register name="0" type="4">
         <text>SettingsSwitchViewModel</text>
       </register>
-      <register name="7" type="4">
-        <text>no_connection</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgTWFwPFN0cmluZywgT2JqZWN0PiBhZGRpdGlvbmFsUHJvcGVydGllczsK</text>
       </register>
-      <register name="6" type="4">
-        <text>no_connection</text>
+      <register name="6" type="8">
+        <text>Integer
+Integer
+Integer
+Integer
+Integer</text>
       </register>
       <register name="5" type="4">
-        <text>no_connection</text>
+        <text>Integer</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIC8vCg==</text>
+      <register name="4" type="4">
+        <text>Integer</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz4lcy9idWlsZE51bWJlci92ZXJzaW9uTnVtYmVy</text>
+        <text>%s/@Expose//g</text>
       </register>
       <register name="9" type="4">
-        <text>no_connection</text>
+        <text encoding="base64">ID0gbmV3IEFycmF5TGlzdDxJbnRlZ2VyPigpOw==</text>
       </register>
       <register name="8" type="4">
-        <text>no_connection</text>
+        <text encoding="base64">ID0gbmV3IEhhc2hNYXA8U3RyaW5nLCBPYmplY3Q+KCk7</text>
       </register>
     </registers>
     <search>
       <last-search>Divider</last-search>
       <last-offset />
-      <last-pattern>buildNumber</last-pattern>
-      <last-replace>versionNumber</last-replace>
-      <last-substitute>buildNumber</last-substitute>
+      <last-pattern>@Expose</last-pattern>
+      <last-replace />
+      <last-substitute>@Expose</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -267,9 +332,11 @@
         <entry>version</entry>
         <entry>Divider</entry>
         <entry>buildNumber</entry>
+        <entry>@Expose</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz4lcy9idWlsZE51bWJlci92ZXJzaW9uTnVtYmVy</entry>
+        <entry>%s/@Expose//g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -286,6 +353,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
