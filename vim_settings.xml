@@ -3,11 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/dt/republic-mobile-android/app/src/main/java/com/rjet/crewlife/android/ui/MainActivity.java" timestamp="1446567911968">
-        <mark key="]" line="79" column="44" />
-        <mark key="." line="79" column="0" />
-        <mark key="[" line="79" column="0" />
-      </file>
       <file name="$USER_HOME$/dt/republic-mobile-android/app/src/main/java/com/rjet/crewlife/java/modules/settings/SettingsTable.java" timestamp="1446138023147">
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
@@ -89,6 +84,13 @@
         <mark key="[" line="11" column="75" />
       </file>
       <file name="$USER_HOME$/dt/republic-mobile-android/app/src/main/java/com/rjet/crewlife/java/modules/settings/SettingsView.java" timestamp="1446571544168" />
+      <file name="$USER_HOME$/dt/republic-mobile-android/app/src/main/java/com/rjet/crewlife/java/common/db/v2/PairingLeg.java" timestamp="1446669439905">
+        <mark key="'" line="6" column="4" />
+        <mark key="]" line="142" column="0" />
+        <mark key="^" line="142" column="0" />
+        <mark key="." line="142" column="0" />
+        <mark key="[" line="46" column="38" />
+      </file>
       <file name="$USER_HOME$/dt/republic-mobile-android/app/build.gradle" timestamp="1446666359540">
         <mark key="]" line="282" column="23" />
         <mark key="^" line="282" column="23" />
@@ -229,44 +231,19 @@
       <jump line="12" column="14" filename="$USER_HOME$/dt/republic-mobile-android/app/src/main/java/com/rjet/crewlife/java/common/db/v2/ApiData.java" />
       <jump line="14" column="32" filename="$USER_HOME$/dt/republic-mobile-android/app/src/main/java/com/rjet/crewlife/java/common/db/v2/ApiData.java" />
       <jump line="5" column="4" filename="$USER_HOME$/dt/republic-mobile-android/app/src/main/java/com/rjet/crewlife/java/common/db/v2/DutyPeriod.java" />
+      <jump line="6" column="4" filename="$USER_HOME$/dt/republic-mobile-android/app/src/main/java/com/rjet/crewlife/java/common/db/v2/PairingLeg.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="8">
-        <text>private
-private
-private
-private
-private
-private
-private
-private
-private
-private
-private
-private
-private
-private
-private
-private
-private
-private
-private
-private</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ID0gbmV3IEFycmF5TGlzdDxJbnRlZ2VyPigpOw==</text>
       </register>
       <register name="/" type="4">
         <text>@Expose</text>
       </register>
       <register name="-" type="4">
-        <text>Integer</text>
+        <text encoding="base64">ID0gbmV3IEFycmF5TGlzdDxJbnRlZ2VyPigpOw==</text>
       </register>
       <register name="3" type="8">
-        <text>Integer
-Integer</text>
-      </register>
-      <register name="2" type="4">
-        <text>Integer</text>
-      </register>
-      <register name="1" type="8">
         <text>private
 private
 private
@@ -288,21 +265,64 @@ private
 private
 private</text>
       </register>
+      <register name="2" type="8">
+        <text>private
+private
+private
+private
+private
+private
+private
+private
+private
+private
+private
+private
+private
+private
+private
+private
+private
+private
+private
+private
+private
+private
+private
+private
+private
+private
+private
+private
+private
+private
+private
+private
+private
+private
+private
+private
+private
+private
+private
+private
+private</text>
+      </register>
+      <register name="1" type="4">
+        <text encoding="base64">ID0gbmV3IEFycmF5TGlzdDxJbnRlZ2VyPigpOw==</text>
+      </register>
       <register name="0" type="4">
         <text>SettingsSwitchViewModel</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgTWFwPFN0cmluZywgT2JqZWN0PiBhZGRpdGlvbmFsUHJvcGVydGllczsK</text>
-      </register>
-      <register name="6" type="8">
-        <text>Integer
-Integer
-Integer
-Integer
-Integer</text>
-      </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text>Integer</text>
+      </register>
+      <register name="6" type="4">
+        <text>Integer</text>
+      </register>
+      <register name="5" type="8">
+        <text>Integer
+Integer</text>
       </register>
       <register name="4" type="4">
         <text>Integer</text>
@@ -310,11 +330,15 @@ Integer</text>
       <register name=":" type="4">
         <text>%s/@Expose//g</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ID0gbmV3IEFycmF5TGlzdDxJbnRlZ2VyPigpOw==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgTWFwPFN0cmluZywgT2JqZWN0PiBhZGRpdGlvbmFsUHJvcGVydGllczsK</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ID0gbmV3IEhhc2hNYXA8U3RyaW5nLCBPYmplY3Q+KCk7</text>
+      <register name="8" type="8">
+        <text>Integer
+Integer
+Integer
+Integer
+Integer</text>
       </register>
     </registers>
     <search>
