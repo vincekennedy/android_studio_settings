@@ -16,11 +16,6 @@
         <mark key="." line="67" column="85" />
         <mark key="[" line="53" column="0" />
       </file>
-      <file name="$USER_HOME$/dt/republic-mobile-android/app/src/main/java/com/rjet/crewlife/android/ui/settings/SettingsFragment.java" timestamp="1446571919418">
-        <mark key="]" line="43" column="0" />
-        <mark key="." line="43" column="0" />
-        <mark key="[" line="43" column="0" />
-      </file>
       <file name="$USER_HOME$/dt/republic-mobile-android/app/src/main/java/com/rjet/crewlife/java/modules/trip_details/TripDetailsPresenter.java" timestamp="1446488974757">
         <mark key="]" line="44" column="0" />
         <mark key="." line="44" column="0" />
@@ -39,11 +34,12 @@
         <mark key="." line="88" column="64" />
         <mark key="[" line="88" column="65" />
       </file>
-      <file name="$USER_HOME$/dt/republic-mobile-android/app/src/main/java/com/rjet/crewlife/java/common/db/v2/Included.java" timestamp="1446740247922">
-        <mark key="]" line="8" column="20" />
-        <mark key="^" line="8" column="20" />
-        <mark key="." line="8" column="20" />
-        <mark key="[" line="8" column="14" />
+      <file name="$USER_HOME$/dt/republic-mobile-android/app/src/main/java/com/rjet/crewlife/java/common/db/v2/Included.java" timestamp="1446748954756">
+        <mark key="'" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="^" line="30" column="0" />
+        <mark key="." line="30" column="0" />
+        <mark key="[" line="8" column="21" />
       </file>
       <file name="$USER_HOME$/dt/republic-mobile-android/app/src/main/java/com/rjet/crewlife/java/common/db/v2/PairingLeg.java" timestamp="1446740275153">
         <mark key="'" line="7" column="4" />
@@ -64,11 +60,6 @@
         <mark key="^" line="4" column="40" />
         <mark key="." line="4" column="40" />
         <mark key="[" line="4" column="37" />
-      </file>
-      <file name="$USER_HOME$/dt/republic-mobile-android/app/src/main/java/com/rjet/crewlife/java/modules/trip_details/TripDetailsInteractor.java" timestamp="1446493163803">
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
-        <mark key="[" line="30" column="0" />
       </file>
       <file name="$USER_HOME$/dt/republic-mobile-android/app/src/main/res/values/styles.xml" timestamp="1446215329880">
         <mark key="'" line="235" column="0" />
@@ -111,11 +102,6 @@
         <mark key="^" line="37" column="68" />
         <mark key="." line="37" column="68" />
         <mark key="[" line="36" column="42" />
-      </file>
-      <file name="$USER_HOME$/dt/republic-mobile-android/app/src/main/java/com/rjet/crewlife/java/modules/settings/SettingsTable.java" timestamp="1446138023147">
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
-        <mark key="[" line="26" column="0" />
       </file>
       <file name="$USER_HOME$/dt/republic-mobile-android/app/src/main/java/com/rjet/crewlife/android/ui/trip_details/TripDetailsActivity.java" timestamp="1446572948805">
         <mark key="]" line="166" column="75" />
@@ -167,11 +153,6 @@
         <mark key="^" line="13" column="74" />
         <mark key="." line="13" column="74" />
         <mark key="[" line="13" column="57" />
-      </file>
-      <file name="$USER_HOME$/dt/republic-mobile-android/app/src/main/java/com/rjet/crewlife/android/ui/directory/entries/DirectoryEntriesActivity.java" timestamp="1446493139982">
-        <mark key="]" line="46" column="5" />
-        <mark key="." line="37" column="0" />
-        <mark key="[" line="46" column="5" />
       </file>
       <file name="$USER_HOME$/dt/republic-mobile-android/app/src/main/java/com/rjet/crewlife/android/base/BaseActivity.java" timestamp="1446572885709">
         <mark key="'" line="11" column="13" />
@@ -250,6 +231,7 @@
       <jump line="69" column="17" filename="$USER_HOME$/dt/republic-mobile-android/app/src/main/java/com/rjet/crewlife/java/common/db/v2/User.java" />
       <jump line="12" column="28" filename="$USER_HOME$/dt/republic-mobile-android/app/src/main/java/com/rjet/crewlife/java/common/db/v2/KnownCrewMemberDirections.java" />
       <jump line="32" column="3" filename="$USER_HOME$/dt/republic-mobile-android/app/src/main/java/com/rjet/crewlife/java/common/db/v2/Airport.java" />
+      <jump line="30" column="0" filename="$USER_HOME$/dt/republic-mobile-android/app/src/main/java/com/rjet/crewlife/java/common/db/v2/Included.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="8">
