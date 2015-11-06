@@ -16,11 +16,6 @@
         <mark key="." line="67" column="85" />
         <mark key="[" line="53" column="0" />
       </file>
-      <file name="$USER_HOME$/dt/republic-mobile-android/app/src/main/java/com/rjet/crewlife/android/ui/settings/SettingsFragment.java" timestamp="1446571919418">
-        <mark key="]" line="43" column="0" />
-        <mark key="." line="43" column="0" />
-        <mark key="[" line="43" column="0" />
-      </file>
       <file name="$USER_HOME$/dt/republic-mobile-android/app/src/main/java/com/rjet/crewlife/android/service/GcmMessageService.java" timestamp="1446564848352" />
       <file name="$USER_HOME$/dt/republic-mobile-android/app/src/main/java/com/rjet/crewlife/java/common/db/v2/KnownCrewMemberDirections.java" timestamp="1446740287641">
         <mark key="'" line="14" column="28" />
@@ -28,12 +23,6 @@
         <mark key="^" line="4" column="84" />
         <mark key="." line="4" column="84" />
         <mark key="[" line="2" column="39" />
-      </file>
-      <file name="$USER_HOME$/dt/republic-mobile-android/app/src/main/java/com/rjet/crewlife/android/ui/drawer/NavigationDrawerFragment.java" timestamp="1446832186467">
-        <mark key="]" line="61" column="28" />
-        <mark key="^" line="61" column="28" />
-        <mark key="." line="61" column="28" />
-        <mark key="[" line="61" column="28" />
       </file>
       <file name="$USER_HOME$/dt/republic-mobile-android/app/src/main/java/com/rjet/crewlife/java/common/db/dao/ScheduleDAO.java" timestamp="1446488714114">
         <mark key="]" line="88" column="64" />
@@ -68,11 +57,6 @@
         <mark key="." line="4" column="6" />
         <mark key="[" line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/dt/republic-mobile-android/app/src/main/java/com/rjet/crewlife/java/modules/trip_details/TripDetailsInteractor.java" timestamp="1446493163803">
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
-        <mark key="[" line="30" column="0" />
-      </file>
       <file name="$USER_HOME$/dt/republic-mobile-android/app/src/main/java/com/rjet/crewlife/java/modules/settings/SettingsPresenter.java" timestamp="1446829228466">
         <mark key="]" line="51" column="31" />
         <mark key="^" line="51" column="31" />
@@ -103,12 +87,7 @@
         <mark key="." line="66" column="93" />
         <mark key="[" line="66" column="52" />
       </file>
-      <file name="$USER_HOME$/dt/republic-mobile-android/app/src/main/java/com/rjet/crewlife/java/modules/main/MainPresenter.java" timestamp="1446832760096">
-        <mark key="]" line="99" column="43" />
-        <mark key="^" line="99" column="43" />
-        <mark key="." line="99" column="43" />
-        <mark key="[" line="99" column="43" />
-      </file>
+      <file name="$USER_HOME$/dt/republic-mobile-android/app/src/main/java/com/rjet/crewlife/java/modules/main/MainPresenter.java" timestamp="1446833509372" />
       <file name="$USER_HOME$/dt/republic-mobile-android/app/src/main/java/com/rjet/crewlife/android/ui/calendar/CalendarFragment.java" timestamp="1446572928373">
         <mark key="]" line="367" column="62" />
         <mark key="^" line="367" column="62" />
@@ -126,22 +105,6 @@
         <mark key="^" line="37" column="68" />
         <mark key="." line="37" column="68" />
         <mark key="[" line="36" column="42" />
-      </file>
-      <file name="$USER_HOME$/dt/republic-mobile-android/app/src/main/java/com/rjet/crewlife/java/modules/settings/SettingsTable.java" timestamp="1446138023147">
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
-        <mark key="[" line="26" column="0" />
-      </file>
-      <file name="$USER_HOME$/dt/republic-mobile-android/app/src/main/java/com/rjet/crewlife/android/ui/MainActivity.java" timestamp="1446832676126">
-        <mark key="]" line="89" column="0" />
-        <mark key="." line="89" column="0" />
-        <mark key="[" line="89" column="0" />
-      </file>
-      <file name="$USER_HOME$/dt/republic-mobile-android/app/src/main/java/com/rjet/crewlife/java/modules/drawer/DrawerPresenter.java" timestamp="1446832336350">
-        <mark key="]" line="82" column="40" />
-        <mark key="^" line="82" column="40" />
-        <mark key="." line="82" column="40" />
-        <mark key="[" line="82" column="40" />
       </file>
       <file name="$USER_HOME$/dt/republic-mobile-android/app/src/main/java/com/rjet/crewlife/android/ui/trip_details/TripDetailsActivity.java" timestamp="1446572948805">
         <mark key="]" line="166" column="75" />
@@ -198,11 +161,6 @@
         <mark key="." line="56" column="48" />
         <mark key="[" line="55" column="24" />
       </file>
-      <file name="$USER_HOME$/dt/republic-mobile-android/app/src/main/java/com/rjet/crewlife/android/ui/directory/entries/DirectoryEntriesActivity.java" timestamp="1446493139982">
-        <mark key="]" line="46" column="5" />
-        <mark key="." line="37" column="0" />
-        <mark key="[" line="46" column="5" />
-      </file>
       <file name="$USER_HOME$/dt/republic-mobile-android/app/src/main/java/com/rjet/crewlife/java/common/db/v2/DutyPeriod.java" timestamp="1446668416006">
         <mark key="'" line="5" column="4" />
         <mark key="]" line="77" column="0" />
@@ -222,11 +180,6 @@
         <mark key="^" line="2" column="48" />
         <mark key="." line="4" column="0" />
         <mark key="[" line="4" column="0" />
-      </file>
-      <file name="$USER_HOME$/dt/republic-mobile-android/app/src/main/java/com/rjet/crewlife/java/modules/drawer/DrawerView.java" timestamp="1446831091698">
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
-        <mark key="[" line="15" column="0" />
       </file>
       <file name="$USER_HOME$/Development/Android/sugar/example/src/main/java/com/example/ClientApp.java" timestamp="1446826888778">
         <mark key="'" line="10" column="13" />
