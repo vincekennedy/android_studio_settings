@@ -61,12 +61,12 @@
         <mark key="." line="282" column="23" />
         <mark key="[" line="281" column="15" />
       </file>
-      <file name="$USER_HOME$/dt/republic-mobile-android/app/src/main/java/com/rjet/crewlife/java/common/db/v2/User.java" timestamp="1446740258701">
+      <file name="$USER_HOME$/dt/republic-mobile-android/app/src/main/java/com/rjet/crewlife/java/common/db/v2/User.java" timestamp="1446825680798">
         <mark key="'" line="71" column="17" />
-        <mark key="]" line="4" column="40" />
-        <mark key="^" line="4" column="40" />
-        <mark key="." line="4" column="40" />
-        <mark key="[" line="4" column="37" />
+        <mark key="]" line="4" column="6" />
+        <mark key="^" line="4" column="6" />
+        <mark key="." line="4" column="6" />
+        <mark key="[" line="4" column="0" />
       </file>
       <file name="$USER_HOME$/dt/republic-mobile-android/app/src/main/res/values/styles.xml" timestamp="1446215329880">
         <mark key="'" line="235" column="0" />
@@ -251,30 +251,49 @@
       <jump line="30" column="0" filename="$USER_HOME$/dt/republic-mobile-android/app/src/main/java/com/rjet/crewlife/java/common/db/v2/Included.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpbnRlcmFjdGlvbkhhbmRsZXIucmVnaXN0ZXJWaWV3KHRoaXMpOwogICAgICAgIGRyYXdlckFkYXB0ZXIgPSBuZXcgRHJhd2VyQWRhcHRlcihnZXRBY3Rpdml0eSgpKTsK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ZmluYWwg</text>
       </register>
       <register name="/" type="4">
         <text>Object</text>
       </register>
       <register name="-" type="4">
-        <text>Object</text>
+        <text encoding="base64">ZmluYWwg</text>
       </register>
-      <register name="3" type="4">
-        <text>Object</text>
-      </register>
-      <register name="2" type="8">
+      <register name="3" type="8">
         <text>Object
 Object</text>
       </register>
-      <register name="1" type="2">
+      <register name="2" type="2">
         <text encoding="base64">ICAgICAgICBpbnRlcmFjdGlvbkhhbmRsZXIucmVnaXN0ZXJWaWV3KHRoaXMpOwogICAgICAgIGRyYXdlckFkYXB0ZXIgPSBuZXcgRHJhd2VyQWRhcHRlcihnZXRBY3Rpdml0eSgpKTsK</text>
+      </register>
+      <register name="1" type="4">
+        <text encoding="base64">ZmluYWwg</text>
       </register>
       <register name="0" type="4">
         <text>SettingsSwitchViewModel</text>
       </register>
-      <register name="7" type="4">
-        <text>Integer</text>
+      <register name="7" type="8">
+        <text>private
+private
+private
+private
+private
+private
+private
+private
+private
+private
+private
+private
+private
+private
+private
+private
+private
+private
+private
+private</text>
       </register>
       <register name="6" type="8">
         <text>private
@@ -296,63 +315,44 @@ private
 private
 private
 private
+private
+private
+private
+private
+private
+private
+private
+private
+private
+private
+private
+private
+private
+private
+private
+private
+private
+private
+private
+private
+private
 private</text>
       </register>
-      <register name="5" type="8">
-        <text>private
-private
-private
-private
-private
-private
-private
-private
-private
-private
-private
-private
-private
-private
-private
-private
-private
-private
-private
-private
-private
-private
-private
-private
-private
-private
-private
-private
-private
-private
-private
-private
-private
-private
-private
-private
-private
-private
-private
-private
-private</text>
+      <register name="5" type="4">
+        <text encoding="base64">ID0gbmV3IEFycmF5TGlzdDxJbnRlZ2VyPigpOw==</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">ID0gbmV3IEFycmF5TGlzdDxJbnRlZ2VyPigpOw==</text>
+        <text>Object</text>
       </register>
       <register name=":" type="4">
         <text>%s/Object/String/g</text>
       </register>
-      <register name="9" type="4">
-        <text>Integer</text>
-      </register>
-      <register name="8" type="8">
+      <register name="9" type="8">
         <text>Integer
 Integer</text>
+      </register>
+      <register name="8" type="4">
+        <text>Integer</text>
       </register>
     </registers>
     <search>
