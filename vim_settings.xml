@@ -16,6 +16,7 @@
         <mark key="." line="67" column="85" />
         <mark key="[" line="53" column="0" />
       </file>
+      <file name="$USER_HOME$/dt/republic-mobile-android/app/src/main/java/com/rjet/crewlife/android/service/GcmMessageService.java" timestamp="1446564848352" />
       <file name="$USER_HOME$/dt/republic-mobile-android/app/src/main/java/com/rjet/crewlife/java/modules/trip_details/TripDetailsPresenter.java" timestamp="1446488974757">
         <mark key="]" line="44" column="0" />
         <mark key="." line="44" column="0" />
@@ -27,6 +28,11 @@
         <mark key="^" line="4" column="84" />
         <mark key="." line="4" column="84" />
         <mark key="[" line="2" column="39" />
+      </file>
+      <file name="$USER_HOME$/dt/republic-mobile-android/app/src/main/java/com/rjet/crewlife/android/ui/drawer/NavigationDrawerFragment.java" timestamp="1446824852838">
+        <mark key="]" line="69" column="4" />
+        <mark key="." line="69" column="4" />
+        <mark key="[" line="69" column="4" />
       </file>
       <file name="$USER_HOME$/dt/republic-mobile-android/app/src/main/java/com/rjet/crewlife/java/common/db/dao/ScheduleDAO.java" timestamp="1446488714114">
         <mark key="]" line="88" column="64" />
@@ -41,6 +47,7 @@
         <mark key="." line="30" column="0" />
         <mark key="[" line="8" column="21" />
       </file>
+      <file name="$USER_HOME$/dt/republic-mobile-android/app/src/main/java/com/rjet/crewlife/java/modules/settings/SettingsView.java" timestamp="1446571544168" />
       <file name="$USER_HOME$/dt/republic-mobile-android/app/src/main/java/com/rjet/crewlife/java/common/db/v2/PairingLeg.java" timestamp="1446740275153">
         <mark key="'" line="7" column="4" />
         <mark key="]" line="6" column="54" />
@@ -85,6 +92,7 @@
         <mark key="." line="66" column="93" />
         <mark key="[" line="66" column="52" />
       </file>
+      <file name="$USER_HOME$/dt/republic-mobile-android/app/src/main/java/com/rjet/crewlife/java/modules/main/MainPresenter.java" timestamp="1446567488936" />
       <file name="$USER_HOME$/dt/republic-mobile-android/app/src/main/java/com/rjet/crewlife/android/ui/calendar/CalendarFragment.java" timestamp="1446572928373">
         <mark key="]" line="367" column="62" />
         <mark key="^" line="367" column="62" />
@@ -103,6 +111,7 @@
         <mark key="." line="37" column="68" />
         <mark key="[" line="36" column="42" />
       </file>
+      <file name="$USER_HOME$/dt/republic-mobile-android/app/src/main/java/com/rjet/crewlife/java/modules/drawer/DrawerPresenter.java" timestamp="1446564871126" />
       <file name="/a.regexp" timestamp="1446818121803">
         <mark key="[" line="0" column="0" />
       </file>
@@ -138,6 +147,8 @@
         <mark key="." line="8" column="8" />
         <mark key="[" line="8" column="4" />
       </file>
+      <file name="$USER_HOME$/dt/republic-mobile-android/app/src/main/java/com/rjet/crewlife/android/ui/login/SplashFragment.java" timestamp="1446824797711" />
+      <file name="$USER_HOME$/dt/republic-mobile-android/app/src/main/java/com/rjet/crewlife/android/ui/flight_details/FlightDetailsFragment.java" timestamp="1446228548217" />
       <file name="$USER_HOME$/dt/republic-mobile-android/app/src/main/java/com/rjet/crewlife/java/modules/trip_details/TripDetailsView.java" timestamp="1446488599422">
         <mark key="]" line="12" column="18" />
         <mark key="^" line="12" column="18" />
@@ -162,9 +173,6 @@
       </file>
       <file name="/fragment.java" timestamp="1446217033550">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/dt/republic-mobile-android/app/src/main/java/com/rjet/crewlife/android/base/BaseActivity.java" timestamp="1446572885709">
-        <mark key="'" line="11" column="13" />
       </file>
       <file name="$USER_HOME$/dt/republic-mobile-android/app/src/main/java/com/rjet/crewlife/java/common/db/v2/DutyPeriod.java" timestamp="1446668416006">
         <mark key="'" line="5" column="4" />
@@ -243,9 +251,8 @@
       <jump line="30" column="0" filename="$USER_HOME$/dt/republic-mobile-android/app/src/main/java/com/rjet/crewlife/java/common/db/v2/Included.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="8">
-        <text>Object
-Object</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBpbnRlcmFjdGlvbkhhbmRsZXIucmVnaXN0ZXJWaWV3KHRoaXMpOwogICAgICAgIGRyYXdlckFkYXB0ZXIgPSBuZXcgRHJhd2VyQWRhcHRlcihnZXRBY3Rpdml0eSgpKTsK</text>
       </register>
       <register name="/" type="4">
         <text>Object</text>
@@ -254,24 +261,42 @@ Object</text>
         <text>Object</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">ID0gbmV3IEFycmF5TGlzdDxJbnRlZ2VyPigpOw==</text>
-      </register>
-      <register name="2" type="4">
         <text>Object</text>
       </register>
-      <register name="1" type="8">
+      <register name="2" type="8">
         <text>Object
 Object</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBpbnRlcmFjdGlvbkhhbmRsZXIucmVnaXN0ZXJWaWV3KHRoaXMpOwogICAgICAgIGRyYXdlckFkYXB0ZXIgPSBuZXcgRHJhd2VyQWRhcHRlcihnZXRBY3Rpdml0eSgpKTsK</text>
       </register>
       <register name="0" type="4">
         <text>SettingsSwitchViewModel</text>
       </register>
-      <register name="7" type="8">
-        <text>Integer
-Integer</text>
-      </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>Integer</text>
+      </register>
+      <register name="6" type="8">
+        <text>private
+private
+private
+private
+private
+private
+private
+private
+private
+private
+private
+private
+private
+private
+private
+private
+private
+private
+private
+private</text>
       </register>
       <register name="5" type="8">
         <text>private
@@ -293,50 +318,31 @@ private
 private
 private
 private
+private
+private
+private
+private
+private
+private
+private
+private
+private
+private
+private
+private
+private
+private
+private
+private
+private
+private
+private
+private
+private
 private</text>
       </register>
-      <register name="4" type="8">
-        <text>private
-private
-private
-private
-private
-private
-private
-private
-private
-private
-private
-private
-private
-private
-private
-private
-private
-private
-private
-private
-private
-private
-private
-private
-private
-private
-private
-private
-private
-private
-private
-private
-private
-private
-private
-private
-private
-private
-private
-private
-private</text>
+      <register name="4" type="4">
+        <text encoding="base64">ID0gbmV3IEFycmF5TGlzdDxJbnRlZ2VyPigpOw==</text>
       </register>
       <register name=":" type="4">
         <text>%s/Object/String/g</text>
@@ -344,8 +350,9 @@ private</text>
       <register name="9" type="4">
         <text>Integer</text>
       </register>
-      <register name="8" type="4">
-        <text>Integer</text>
+      <register name="8" type="8">
+        <text>Integer
+Integer</text>
       </register>
     </registers>
     <search>
