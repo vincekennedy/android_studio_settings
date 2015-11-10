@@ -2,9 +2,35 @@
   <component name="VimSettings">
     <state version="4" enabled="true" />
     <globalmarks />
-    <filemarks />
+    <filemarks>
+      <file name="$USER_HOME$/dt/republic-mobile-android/app/src/main/java/com/rjet/crewlife/android/ui/calendar/CalendarFragment.java" timestamp="1447171412925">
+        <mark key="]" line="373" column="24" />
+        <mark key="." line="368" column="0" />
+        <mark key="[" line="368" column="0" />
+      </file>
+      <file name="$USER_HOME$/dt/republic-mobile-android/app/src/main/java/com/rjet/crewlife/android/ui/preferences/PreferencesFragment.java" timestamp="1447171407680">
+        <mark key="]" line="151" column="23" />
+        <mark key="[" line="146" column="0" />
+      </file>
+    </filemarks>
     <jumps />
-    <registers />
+    <registers>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBuZXcgQWxlcnREaWFsb2cuQnVpbGRlcigpCiAgICAgICAgICAgICAgICAuc2V0VGl0bGUoIk5vIENvbm5lY3Rpb24iKQogICAgICAgICAgICAgICAgLnNldE1lc3NhZ2UoUi5zdHJpbmcubm9fY29ubmVjdGlvbikKICAgICAgICAuc2V0TmV1dHJhbEJ1dHRvbigiRGlzbWlzcyIpVjsK</text>
+      </register>
+      <register name="2" type="4">
+        <text>PositiveButton</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBuZXcgQWxlcnREaWFsb2cuQnVpbGRlcigpCiAgICAgICAgICAgICAgICAuc2V0VGl0bGUoIk5vIENvbm5lY3Rpb24iKQogICAgICAgICAgICAgICAgLnNldE1lc3NhZ2UoUi5zdHJpbmcubm9fY29ubmVjdGlvbikKICAgICAgICAuc2V0TmV1dHJhbEJ1dHRvbigiRGlzbWlzcyIpVjsK</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBuZXcgQWxlcnREaWFsb2cuQnVpbGRlcihnZXRBY3Rpdml0eSgpKQogICAgICAgICAgICAgICAgLnNldFRpdGxlKCJDb25uZWN0aW9uIElzc3VlIikKICAgICAgICAgICAgICAgIC5zZXRNZXNzYWdlKCJXZSBjYW4ndCB1cGRhdGUgeW91ciBpbmZvcm1hdGlvbiB3aGlsZSB5b3UncmUgb2ZmbGluZSIpCiAgICAgICAgICAgICAgICAuc2V0TmVnYXRpdmVCdXR0b24oIkRpc21pc3MiLCBudWxsKQogICAgICAgICAgICAgICAgLmNyZWF0ZSgpCiAgICAgICAgICAgICAgICAuc2hvdygpOwo=</text>
+      </register>
+      <register name="-" type="4">
+        <text>PositiveButton</text>
+      </register>
+    </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
