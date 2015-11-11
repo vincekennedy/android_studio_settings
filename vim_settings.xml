@@ -6,13 +6,18 @@
       <file name="$USER_HOME$/dt/republic-mobile-android/app/src/main/java/com/rjet/crewlife/java/modules/main/MainPresenter.java" timestamp="1447254194914" />
       <file name="$USER_HOME$/dt/republic-mobile-android/app/src/main/java/com/rjet/crewlife/android/ui/calendar/CalendarFragment.java" timestamp="1447252829805" />
       <file name="$USER_HOME$/dt/republic-mobile-android/app/src/main/java/com/rjet/crewlife/android/ui/compliance/ComplianceFragment.java" timestamp="1447252987650" />
-      <file name="$USER_HOME$/dt/republic-mobile-android/app/src/main/java/com/rjet/crewlife/java/modules/calendar/CalendarPresenter.java" timestamp="1447259624652" />
+      <file name="$USER_HOME$/dt/republic-mobile-android/app/src/main/java/com/rjet/crewlife/java/modules/calendar/CalendarPresenter.java" timestamp="1447263533869">
+        <mark key="'" line="182" column="4" />
+      </file>
+      <file name="$USER_HOME$/dt/republic-mobile-android/app/src/main/java/com/rjet/crewlife/java/common/db/dao/ScheduleDAO.java" timestamp="1447263381546" />
       <file name="$USER_HOME$/dt/republic-mobile-android/app/src/main/java/com/rjet/crewlife/android/ui/preferences/PreferencesFragment.java" timestamp="1447171407680">
         <mark key="]" line="151" column="23" />
         <mark key="[" line="146" column="0" />
       </file>
     </filemarks>
-    <jumps />
+    <jumps>
+      <jump line="182" column="4" filename="$USER_HOME$/dt/republic-mobile-android/app/src/main/java/com/rjet/crewlife/java/modules/calendar/CalendarPresenter.java" />
+    </jumps>
     <registers>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgICBuZXcgQWxlcnREaWFsb2cuQnVpbGRlcigpCiAgICAgICAgICAgICAgICAuc2V0VGl0bGUoIk5vIENvbm5lY3Rpb24iKQogICAgICAgICAgICAgICAgLnNldE1lc3NhZ2UoUi5zdHJpbmcubm9fY29ubmVjdGlvbikKICAgICAgICAuc2V0TmV1dHJhbEJ1dHRvbigiRGlzbWlzcyIpVjsK</text>
@@ -33,22 +38,37 @@
         <text>PositiveButton</text>
       </register>
       <register name=":" type="4">
-        <text>160</text>
+        <text>98</text>
+      </register>
+      <register name="/" type="4">
+        <text>Finished</text>
       </register>
       <register name="-" type="4">
         <text>PositiveButton</text>
       </register>
     </registers>
     <search>
-      <last-dir>0</last-dir>
+      <last-search>Finished</last-search>
+      <last-offset />
+      <last-pattern>Finished</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
+      <history-search>
+        <entry>finished</entry>
+        <entry>Finished</entry>
+      </history-search>
       <history-cmd>
         <entry>160</entry>
         <entry encoding="base64">JzwsJz4xMzE=</entry>
+        <entry>98</entry>
       </history-cmd>
     </history>
-    <shortcut-conflicts />
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
   </component>
 </application>
