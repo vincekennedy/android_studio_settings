@@ -3,6 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/dt/republic-mobile-android/app/src/main/java/com/rjet/crewlife/java/modules/main/MainPresenter.java" timestamp="1447254194914" />
       <file name="$USER_HOME$/dt/republic-mobile-android/app/src/main/java/com/rjet/crewlife/android/ui/calendar/CalendarFragment.java" timestamp="1447252829805" />
       <file name="$USER_HOME$/dt/republic-mobile-android/app/src/main/java/com/rjet/crewlife/android/ui/compliance/ComplianceFragment.java" timestamp="1447252987650" />
       <file name="$USER_HOME$/dt/republic-mobile-android/app/src/main/java/com/rjet/crewlife/java/modules/calendar/CalendarPresenter.java" timestamp="1447253950896" />
@@ -13,17 +14,23 @@
     </filemarks>
     <jumps />
     <registers>
-      <register name="&quot;" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICBuZXcgQWxlcnREaWFsb2cuQnVpbGRlcigpCiAgICAgICAgICAgICAgICAuc2V0VGl0bGUoIk5vIENvbm5lY3Rpb24iKQogICAgICAgICAgICAgICAgLnNldE1lc3NhZ2UoUi5zdHJpbmcubm9fY29ubmVjdGlvbikKICAgICAgICAuc2V0TmV1dHJhbEJ1dHRvbigiRGlzbWlzcyIpVjsK</text>
       </register>
-      <register name="2" type="4">
-        <text>PositiveButton</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLmRvT25OZXh0KG5ldyBBY3Rpb24xPERyYXdlckZlYXR1cmU+KCkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBwdWJsaWMgdm9pZCBjYWxsKGZpbmFsIERyYXdlckZlYXR1cmUgZHJhd2VyRmVhdHVyZSkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9KQo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFRpbWJlci5lKGRyYXdlckZlYXR1cmUudG9TdHJpbmcoKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBuZXcgQWxlcnREaWFsb2cuQnVpbGRlcigpCiAgICAgICAgICAgICAgICAuc2V0VGl0bGUoIk5vIENvbm5lY3Rpb24iKQogICAgICAgICAgICAgICAgLnNldE1lc3NhZ2UoUi5zdHJpbmcubm9fY29ubmVjdGlvbikKICAgICAgICAuc2V0TmV1dHJhbEJ1dHRvbigiRGlzbWlzcyIpVjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLmRvT25OZXh0KG5ldyBBY3Rpb24xPERyYXdlckZlYXR1cmU+KCkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBwdWJsaWMgdm9pZCBjYWxsKGZpbmFsIERyYXdlckZlYXR1cmUgZHJhd2VyRmVhdHVyZSkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9KQo=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBuZXcgQWxlcnREaWFsb2cuQnVpbGRlcihnZXRBY3Rpdml0eSgpKQogICAgICAgICAgICAgICAgLnNldFRpdGxlKCJDb25uZWN0aW9uIElzc3VlIikKICAgICAgICAgICAgICAgIC5zZXRNZXNzYWdlKCJXZSBjYW4ndCB1cGRhdGUgeW91ciBpbmZvcm1hdGlvbiB3aGlsZSB5b3UncmUgb2ZmbGluZSIpCiAgICAgICAgICAgICAgICAuc2V0TmVnYXRpdmVCdXR0b24oIkRpc21pc3MiLCBudWxsKQogICAgICAgICAgICAgICAgLmNyZWF0ZSgpCiAgICAgICAgICAgICAgICAuc2hvdygpOwo=</text>
+      </register>
+      <register name="4" type="4">
+        <text>PositiveButton</text>
       </register>
       <register name=":" type="4">
         <text>160</text>
