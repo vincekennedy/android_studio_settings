@@ -3,14 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/dt/republic-mobile-android/app/src/main/java/com/rjet/crewlife/android/widget/CrewLifeSnackBar.java" timestamp="1447268346747">
-        <mark key="]" line="24" column="63" />
-        <mark key="^" line="24" column="63" />
-        <mark key="." line="24" column="63" />
-        <mark key="[" line="24" column="57" />
-      </file>
-      <file name="/a.regexp" timestamp="1447268663450">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/dt/republic-mobile-android/app/src/main/java/com/rjet/crewlife/android/widget/CrewLifeSnackBar.java" timestamp="1447271537988">
+        <mark key="]" line="12" column="74" />
+        <mark key="^" line="12" column="74" />
+        <mark key="." line="12" column="74" />
+        <mark key="[" line="12" column="57" />
       </file>
       <file name="$USER_HOME$/dt/republic-mobile-android/app/src/main/java/com/rjet/crewlife/android/ui/ConnectivityAlert.java" timestamp="1447270530240">
         <mark key="]" line="12" column="35" />
@@ -42,22 +39,16 @@
         <mark key="." line="234" column="45" />
         <mark key="[" line="234" column="33" />
       </file>
-      <file name="$USER_HOME$/dt/republic-mobile-android/app/src/main/java/com/rjet/crewlife/android/ui/flight_details/FlightDetailsActivity.java" timestamp="1447270543925">
+      <file name="$USER_HOME$/dt/republic-mobile-android/app/src/main/java/com/rjet/crewlife/android/ui/flight_details/FlightDetailsActivity.java" timestamp="1447271188599">
         <mark key="]" line="226" column="46" />
         <mark key="." line="226" column="0" />
         <mark key="[" line="226" column="0" />
       </file>
       <file name="$USER_HOME$/dt/republic-mobile-android/app/src/main/java/com/rjet/crewlife/java/common/db/dao/ScheduleDAO.java" timestamp="1447263381546" />
-      <file name="$USER_HOME$/dt/republic-mobile-android/app/src/main/res/values/strings.xml" timestamp="1447267979853">
-        <mark key="]" line="23" column="33" />
-        <mark key="^" line="23" column="33" />
-        <mark key="." line="23" column="33" />
-        <mark key="[" line="23" column="27" />
-      </file>
-      <file name="$USER_HOME$/dt/republic-mobile-android/app/src/main/java/com/rjet/crewlife/android/ui/preferences/PreferencesFragment.java" timestamp="1447270563485">
-        <mark key="]" line="146" column="33" />
-        <mark key="." line="146" column="33" />
-        <mark key="[" line="146" column="33" />
+      <file name="$USER_HOME$/dt/republic-mobile-android/app/src/main/res/values/strings.xml" timestamp="1447271291463">
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+        <mark key="[" line="18" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -65,7 +56,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>this</text>
+        <text>dismiss</text>
       </register>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICBDb25uZWN0aXZpdHlBbGVydC5kaWFsb2codGhpcykuc2hvdygpOwo=</text>
@@ -74,40 +65,40 @@
         <text>Dismiss</text>
       </register>
       <register name="-" type="4">
-        <text>this</text>
+        <text>dismiss</text>
       </register>
       <register name="3" type="4">
-        <text>this</text>
+        <text>hyphen</text>
       </register>
-      <register name="2" type="4">
-        <text>this</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0iIj4gLSA8L3N0cmluZz4K</text>
       </register>
       <register name="1" type="4">
-        <text>this</text>
+        <text>dismiss</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBuZXcgQWxlcnREaWFsb2cuQnVpbGRlcih0aGlzKQogICAgICAgICAgICAgICAgLnNldFRpdGxlKFIuc3RyaW5nLm5vX2Nvbm5lY3Rpb25fdGl0bGUpCiAgICAgICAgICAgICAgICAuc2V0TWVzc2FnZShSLnN0cmluZy5ub19jb25uZWN0aW9uX21lc3NhZ2UpCiAgICAgICAgICAgICAgICAuc2V0TmVnYXRpdmVCdXR0b24oUi5zdHJpbmcuZGlzbWlzcywgbnVsbCkKICAgICAgICAgICAgICAgIC5jcmVhdGUoKQogICAgICAgICAgICAgICAgLnNob3coKTsK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBuZXcgQWxlcnREaWFsb2cuQnVpbGRlcih0aGlzKQogICAgICAgICAgICAgICAgLnNldFRpdGxlKFIuc3RyaW5nLm5vX2Nvbm5lY3Rpb25fdGl0bGUpCiAgICAgICAgICAgICAgICAuc2V0TWVzc2FnZShSLnN0cmluZy5ub19jb25uZWN0aW9uX21lc3NhZ2UpCiAgICAgICAgICAgICAgICAuc2V0TmVnYXRpdmVCdXR0b24oUi5zdHJpbmcuZGlzbWlzcywgbnVsbCkKICAgICAgICAgICAgICAgIC5jcmVhdGUoKQogICAgICAgICAgICAgICAgLnNob3coKTsK</text>
+      <register name="7" type="4">
+        <text>this</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBuZXcgQWxlcnREaWFsb2cuQnVpbGRlcihnZXRBY3Rpdml0eSgpKQogICAgICAgICAgICAgICAgLnNldFRpdGxlKFIuc3RyaW5nLm5vX2Nvbm5lY3Rpb25fdGl0bGUpCiAgICAgICAgICAgICAgICAuc2V0TWVzc2FnZShSLnN0cmluZy5ub19jb25uZWN0aW9uX21lc3NhZ2UpCiAgICAgICAgICAgICAgICAuc2V0TmVnYXRpdmVCdXR0b24oUi5zdHJpbmcuZGlzbWlzcywgbnVsbCkKICAgICAgICAgICAgICAgIC5jcmVhdGUoKQogICAgICAgICAgICAgICAgLnNob3coKTsK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgU25hY2tiYXIgbm9Db25uZWN0aW9uU25hY2tCYXIoVmlldyB2aWV3KSB7CiAgICAgICAgaW50IHNuYWNrQmFyQ29sb3IgPSBDb2xvci5XSElURTsKCiAgICAgICAgU25hY2tiYXIgc25hY2tiYXIgPSBTbmFja2Jhci5tYWtlKHZpZXcsIFIuc3RyaW5nLmRpc21pc3MsIFNuYWNrYmFyLkxFTkdUSF9MT05HKTsKICAgICAgICBUZXh0VmlldyB0eHRNZXNzYWdlID0gKFRleHRWaWV3KSBzbmFja2Jhci5nZXRWaWV3KCkuZmluZFZpZXdCeUlkKGFuZHJvaWQuc3VwcG9ydC5kZXNpZ24uUi5pZC5zbmFja2Jhcl90ZXh0KTsKICAgICAgICB0eHRNZXNzYWdlLnNldFRleHRDb2xvcihzbmFja0JhckNvbG9yKTsKCiAgICAgICAgc25hY2tiYXIuc2V0QWN0aW9uVGV4dENvbG9yKHNuYWNrQmFyQ29sb3IpOwogICAgICAgIHJldHVybiBzbmFja2JhcjsKICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBuZXcgQWxlcnREaWFsb2cuQnVpbGRlcihnZXRBY3Rpdml0eSgpKQogICAgICAgICAgICAgICAgLnNldFRpdGxlKFIuc3RyaW5nLm5vX2Nvbm5lY3Rpb25fdGl0bGUpCiAgICAgICAgICAgICAgICAuc2V0TWVzc2FnZShSLnN0cmluZy5ub19jb25uZWN0aW9uX21lc3NhZ2UpCiAgICAgICAgICAgICAgICAuc2V0TmVnYXRpdmVCdXR0b24oUi5zdHJpbmcuZGlzbWlzcywgbnVsbCkKICAgICAgICAgICAgICAgIC5jcmVhdGUoKQogICAgICAgICAgICAgICAgLnNob3coKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBuZXcgQWxlcnREaWFsb2cuQnVpbGRlcihnZXRBY3Rpdml0eSgpKQogICAgICAgICAgICAgICAgLnNldFRpdGxlKFIuc3RyaW5nLm5vX2Nvbm5lY3Rpb25fdGl0bGUpCiAgICAgICAgICAgICAgICAuc2V0TWVzc2FnZShSLnN0cmluZy5ub19jb25uZWN0aW9uX21lc3NhZ2UpCiAgICAgICAgICAgICAgICAuc2V0TmVnYXRpdmVCdXR0b24oUi5zdHJpbmcuZGlzbWlzcywgbnVsbCkKICAgICAgICAgICAgICAgIC5jcmVhdGUoKQogICAgICAgICAgICAgICAgLnNob3coKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
       </register>
       <register name="9" type="4">
-        <text>dialog</text>
+        <text>this</text>
       </register>
       <register name="8" type="4">
-        <text>connectivityDialog</text>
+        <text>this</text>
       </register>
     </registers>
     <search>
